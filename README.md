@@ -1,7 +1,7 @@
 Programador. Estudante. Entusiasta de IA.
 ------------------------------------
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world!">
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/devAndreotti/count.svg?"  />
@@ -33,7 +33,7 @@ Programador. Estudante. Entusiasta de IA.
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devAndreotti&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-### Redes
+### Redes Sociais
 <div align="left">
   <a href="mailto:ricardo.23.03.1749@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="gmail" />
