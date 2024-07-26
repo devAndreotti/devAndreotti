@@ -44,7 +44,7 @@ Programador. Estudante. Entusiasta de IA.
   <a href="https://discordapp.com/users/wantakame#1689" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="discord" />
   </a>
-
+  <br>
   <a href="https://www.instagram.com/yourprofile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="instagram" />
   </a>
