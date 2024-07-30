@@ -9,7 +9,9 @@ Programador. Estudante. Entusiasta de IA.
   <img src="https://profile-counter.glitch.me/devAndreotti/count.svg?" alt="Contador de Visitas" />
 </div>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=devAndreotti&countColor=%232ccce4&style=plastic)
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=devAndreotti&countColor=%2337d67a&style=flat-square&labelStyle=upper" alt="Contador de Visitantes" />
+</div>
 
 ### Sobre mim
 * 🚀  Atualmente estou no 4º semestre de ciência da computação
