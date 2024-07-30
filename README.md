@@ -10,10 +10,10 @@ Programador. Estudante. Entusiasta de IA.
 </div>
 
 ### Sobre mim
-* 🚀  Atualmente no 4º semestre de ciência da computação
-* 🖥️  Veja mais em [sites.google.com](https://sites.google.com/view/ricardoag/home)
+* 🚀  No 4º semestre de ciência da computação
 * ✉️  Me contate [ricardo.23.03.1749@gmail](mailto:ricardo.23.03.1749@gmail.com)
 * 🧠  Estou aprendendo tudo de React
+* 🖥️  Veja mais em [sites.google.com](https://sites.google.com/view/ricardoag/home)
 * 🌍  Morando em Sorocaba, SP
 
 ### Habilidades
