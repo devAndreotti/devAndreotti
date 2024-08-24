@@ -2,7 +2,7 @@ Programador. Estudante. Entusiasta de IA.
 ------------------------------------
 
 <!-- Imagem de banner -->
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world!">
+<img src="./Purple.png" alt="Hello world!">
 
 <div align="center">
     <!-- Contador de visitas -->
