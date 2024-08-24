@@ -7,7 +7,7 @@
 <!-- Imagem de banner -->
 <img src="./HelloWorld.png" alt="Hello world!">
 
-### Redes Sociais
+###
 <div align="center">
   <!-- Links para redes sociais -->
   <a href="https://www.instagram.com/yourprofile" target="_blank">
