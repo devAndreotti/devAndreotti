@@ -1,8 +1,6 @@
 Programador. Estudante. Entusiasta de IA.
 ------------------------------------
 
-![Purple SVG](./purple.svg)
-
 <!-- Imagem de banner -->
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world!">
 
@@ -82,3 +80,5 @@ Programador. Estudante. Entusiasta de IA.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="36" alt="Android" />
   <img width="12" />
 </div>
+
+![Purple SVG](./purple.svg)
