@@ -28,7 +28,7 @@ Programador. Estudante. Entusiasta de IA.
 
 ###
   <!-- Imagem adicional -->
-  <img align="right" src="Computer.png" alt="Purple Computer" />
+  <img align="right" src="Computer.png" alt="Purple Computer" height="150" />
 
 ### Habilidades
 <div align="left">
