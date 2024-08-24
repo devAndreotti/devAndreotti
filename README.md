@@ -16,6 +16,16 @@ Programador. Estudante. Entusiasta de IA.
 * 🖥️  Veja mais em [sites.google.com](https://sites.google.com/view/ricardoag/home)
 * 🌍  Morando em Sorocaba, SP
 
+### Meus dados
+> 📦 190.8 MB Usado no armazenamento do GitHub 
+ > 
+> 🏆 221 Contribuições no ano de 2024
+ > 
+> 📜 21 Repositórios Públicos 
+ > 
+> 🔑 7 Repositórios Privados 
+ > 
+
 ### Habilidades
 <div align="left">
   <!-- Icones de habilidades -->
