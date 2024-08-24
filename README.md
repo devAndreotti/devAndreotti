@@ -48,6 +48,11 @@ Programador. Estudante. Entusiasta de IA.
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devAndreotti&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=true&order=2" height="150" alt="Gráfico de Linguagens" />
 </div>
 
+<div align="right">
+  <!-- Imagem adicional -->
+  <img src="Computer.png" alt="Purple Computer" />
+</div>
+
 ### Redes Sociais
 <div align="left">
   <!-- Links para redes sociais -->
