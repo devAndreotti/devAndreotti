@@ -26,26 +26,16 @@
   </a>
 </div>
 
+###
+  <!-- Imagem adicional -->
+  <img align="right" src="Computer.png" alt="Purple Computer" height="250" />
+
 ### Sobre mim
 * 🚀  4º semestre de ciência da computação
 * ✉️  Me contate [ricardo.23.03.1749@gmail](mailto:ricardo.23.03.1749@gmail.com)
 * 🧠  Estou aprendendo tudo de React
 * 🖥️  Veja mais em [sites.google.com](https://sites.google.com/view/ricardoag/home)
 * 🌍  Morando em Sorocaba, SP
-
-###
-  <!-- Imagem adicional -->
-  <img align="right" src="Computer.png" alt="Purple Computer" height="250" />
-
-### Meus dados
-> 📦 190.8 MB Usado no armazenamento do GitHub 
- > 
-> 🏆 221 Contribuições no ano de 2024
- > 
-> 📜 21 Repositórios Públicos 
- > 
-> 🔑 7 Repositórios Privados 
- > 
 
 ### Principais Linguagens
 <div align="left">
@@ -81,5 +71,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="36" alt="Android" />
   <img width="12" />
 </div>
+
+###
+> 📦 190.8 MB Usado no armazenamento do GitHub 
+ > 
+> 🏆 221 Contribuições no ano de 2024
+ > 
+> 📜 21 Repositórios Públicos 
+ > 
+> 🔑 7 Repositórios Privados 
+ > 
 
 ![Purple SVG](./purple.svg)
