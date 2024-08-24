@@ -26,6 +26,10 @@ Programador. Estudante. Entusiasta de IA.
 > 🔑 7 Repositórios Privados 
  > 
 
+###
+  <!-- Imagem adicional -->
+  <img align="right" src="Computer.png" alt="Purple Computer" />
+
 ### Habilidades
 <div align="left">
   <!-- Icones de habilidades -->
@@ -41,10 +45,6 @@ Programador. Estudante. Entusiasta de IA.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" />
 </div>
-
-###
-  <!-- Imagem adicional -->
-  <img align="right" src="Computer.png" alt="Purple Computer"/>
 
 ### Principais Linguagens
 <div align="left">
