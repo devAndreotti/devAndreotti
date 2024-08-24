@@ -1,5 +1,8 @@
-Programador. Estudante. Entusiasta de IA.
-------------------------------------
+<p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&duration=4000&color=8E44AD&vCenter=true&width=500&lines=%F0%9F%91%8B+Ol%C3%A1%2C+sou+Ricardo+Andreotti;Aluno+de+Ci%C3%AAncia+da+Comput.+%F0%9F%92%AA" alt="Typing SVG" />
+  </a>
+</p>
 
 <!-- Imagem de banner -->
 <img src="./HelloWorld.png" alt="Hello world!">
