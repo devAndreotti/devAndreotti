@@ -2,7 +2,7 @@ Programador. Estudante. Entusiasta de IA.
 ------------------------------------
 
 <!-- Imagem de banner -->
-<img src="./Purple.png" alt="Hello world!">
+<img src="./HelloWorld.png" alt="Hello world!">
 
 <div align="center">
     <!-- Contador de visitas -->
