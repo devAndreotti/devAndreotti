@@ -101,7 +101,7 @@
 # 📊 Estatísticas
 > 📦 190,8 MB usados no armazenamento
 > 
-> 🏆 221 contribuições nesse ano
+> 🏆 401 contribuições nesse ano
 > 
 > 📜 29 repositórios públicos
 > 
