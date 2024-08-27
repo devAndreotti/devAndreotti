@@ -103,7 +103,7 @@
 > 
 > 🏆 221 contribuições nesse ano
 > 
-> 📜 21 repositórios públicos
+> 📜 29 repositórios públicos
 > 
 > 🔑 7 repositórios privados
 
