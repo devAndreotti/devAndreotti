@@ -100,11 +100,11 @@
 
 <!-- Seção de estatísticas do github -->
 # 📊 Estatísticas
-> 📦 190,8 MB usados no armazenamento
+> 📦 237,6 MB usados no armazenamento
 > 
 > 🏆 401 contribuições nesse ano
 > 
-> 📜 29 repositórios públicos
+> 📜 30 repositórios públicos
 > 
 > 🔑 7 repositórios privados
 
