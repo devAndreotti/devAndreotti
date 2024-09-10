@@ -4,11 +4,6 @@
 <!-- Imagem de banner -->
 <img src="./HelloWorld.png" alt="Hello world!">
 
-
-<!-- Gráfico de linguagens mais usadas no github, alinhado à direita -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devAndreotti&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" alt="Gráfico de Linguagens" />
-
-
 <!-- Links para redes sociais com ícones no centro -->
 <div align="center">
   <!-- Instagram -->
@@ -72,6 +67,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="28" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" alt="Java"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" alt="Docker" />
+</div>
+
+<!-- Gráfico de linguagens mais usadas no github, centralizado -->
+<div style="text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devAndreotti&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" width="250" alt="Gráfico de Linguagens" />
 </div>
 
 <!-- Seção de sistemas operacionais -->
