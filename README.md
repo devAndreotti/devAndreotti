@@ -58,7 +58,8 @@
 <!-- Seção de habilidades -->
 ### Habilidades
 <!-- Imagem de enfeite alinhada à direita -->
-<img align="right" src="Computer.png" alt="Comoutador Roxo" height="130" />
+
+
 <div align="left">
   <!-- Ícones das habilidades com suas respectivas URLs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="CSS3" />
