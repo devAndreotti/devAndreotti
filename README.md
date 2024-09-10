@@ -4,6 +4,11 @@
 <!-- Imagem de banner -->
 <img src="./HelloWorld.png" alt="Hello world!">
 
+
+<!-- Gráfico de linguagens mais usadas no github, alinhado à direita -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devAndreotti&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" alt="Gráfico de Linguagens" />
+
+
 <!-- Links para redes sociais com ícones no centro -->
 <div align="center">
   <!-- Instagram -->
@@ -69,9 +74,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" alt="Docker" />
 </div>
 
-<!-- Gráfico de linguagens mais usadas no github, alinhado à direita -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devAndreotti&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="250" alt="Gráfico de Linguagens" />
-
 <!-- Seção de sistemas operacionais -->
 ### Sistemas Operacionais
 <div align="left">
@@ -95,7 +97,7 @@
 # 📊 Estatísticas
 > 📦 237,6 MB usados no armazenamento
 > 
-> 🏆 401 contribuições nesse ano
+> 🏆 496 contribuições nesse ano
 > 
 > 📜 30 repositórios públicos
 > 
