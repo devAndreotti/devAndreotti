@@ -4,10 +4,6 @@
 <!-- Imagem de banner -->
 <img src="./HelloWorld.png" alt="Hello world!">
 
-<!-- Gráfico de linguagens mais usadas no github, alinhado à direita -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=devAndreotti&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="Gráfico de Linguagens" />
-
-
 <!-- Links para redes sociais com ícones no centro -->
 <div align="center">
   <!-- Instagram -->
@@ -57,9 +53,6 @@
 
 <!-- Seção de habilidades -->
 ### Habilidades
-<!-- Imagem de enfeite alinhada à direita -->
-
-
 <div align="left">
   <!-- Ícones das habilidades com suas respectivas URLs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="CSS3" />
@@ -76,7 +69,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" alt="Docker" />
 </div>
 
-<br>
+<!-- Gráfico de linguagens mais usadas no github, alinhado à direita -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devAndreotti&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="250" alt="Gráfico de Linguagens" />
 
 <!-- Seção de sistemas operacionais -->
 ### Sistemas Operacionais
@@ -87,8 +81,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="28" alt="Windows" /><img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="28" alt="Fedora" />
 </div>
-
-<br>
 
 <!-- Seção de cursos atuais -->
 # 🎓 Cursos Atuais
