@@ -8,22 +8,22 @@
 </div>
 
 <!-- Imagem de banner -->
-<div style="text-align: center;">
+<div align= "center">
   <img src="./HelloWorld.png" alt="Hello world!" />
 </div>
 
 <!-- Links para redes sociais com ícones no centro -->
-<div style="text-align: center;">
-  <a href="https://www.instagram.com/yourprofile" target="_blank">
+<div align= "right">
+  <a href="https://www.instagram.com/yourprofile">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=8E44AD&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/ricardo-andreotti-gonçalves-0b5785283" target="_blank">
+  <a href="https://www.linkedin.com/in/ricardo-andreotti-gonçalves-0b5785283">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=8E44AD&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="LinkedIn" />
   </a>
-  <a href="https://wa.me/5515981888676" target="_blank">
+  <a href="https://wa.me/5515981888676"">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=8E44AD&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="Whatsapp" />
   </a>
-  <a href="mailto:ricardo.23.03.1749@gmail.com" target="_blank">
+  <a href="mailto:ricardo.23.03.1749@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=8E44AD&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="Gmail" />
   </a>
 </div>
@@ -60,12 +60,11 @@
 </div>
 
 <!-- Gráfico de linguagens mais usadas no github, centralizado -->
-<div style="text-align: center;">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devAndreotti&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" width="385" alt="Gráfico de Linguagens" />
 </div>
 
 <!-- Seção de sistemas operacionais -->
-<div>
   <h3>Sistemas Operacionais</h3>
   <div style="text-align: left;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="28" alt="Android" />
@@ -73,7 +72,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="28" alt="Windows" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="28" alt="Fedora" />
   </div>
-</div>
 
 <!-- Seção de cursos atuais -->
 <div>
