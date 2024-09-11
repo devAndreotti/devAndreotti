@@ -35,7 +35,6 @@
     <li>🚀 No 4º semestre de Ciência da Computação</li>
     <li>✉️ <a href="mailto:ricardo.23.03.1749@gmail.com">ricardo.23.03.1749@gmail.com</a></li>
     <li>🧠 Estudando Java e SQL</li>
-    <li>🖥️ Veja mais em <a href="https://sites.google.com/view/ricardoag/home">sites.google.com</a></li>
     <li>🌍 Morando em Sorocaba, SP</li>
   </ul>
 </div>
