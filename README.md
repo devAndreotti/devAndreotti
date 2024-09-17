@@ -76,26 +76,35 @@
 <div>
   <h2>🎓 Cursos Atuais</h2>
   <table>
-    <tr>
-      <th>Curso</th>
-      <th>Plataforma</th>
-    </tr>
-    <tr>
-      <td>Imersão Dev com Google Gemini</td>
-      <td>Alura</td>
-    </tr>
-    <tr>
-      <td>Bootcamp Blockchain</td>
-      <td>DIO</td>
-    </tr>
-    <tr>
-      <td>Java AI Powered</td>
-      <td>DIO</td>
-    </tr>
-    <tr>
-      <td>Power BI</td>
-      <td>Simplifica</td>
-    </tr>
+    <thead>
+      <tr>
+        <th>Curso</th>
+        <th>Plataforma</th>
+        <th>Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Imersão Dev com Google Gemini</td>
+        <td>Alura</td>
+        <td>Concluído</td>
+      </tr>
+      <tr>
+        <td>Bootcamp Blockchain</td>
+        <td>DIO</td>
+        <td>Concluído</td>
+      </tr>
+      <tr>
+        <td>Power BI</td>
+        <td>Simplifica</td>
+        <td>Concluído</td>
+      </tr>
+      <tr>
+        <td>Java AI Powered</td>
+        <td>DIO</td>
+        <td>- - - - - - -</td>
+      </tr>
+    </tbody>
   </table>
 </div>
 
