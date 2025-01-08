@@ -23,7 +23,7 @@
   <a href="https://wa.me/5515981888676"">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=8E44AD&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="Whatsapp" />
   </a>
-  <a href="mailto:ricardo.23.03.1749@gmail.com">
+  <a href="mailto:OrlaEK@proton.me">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=8E44AD&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="Gmail" />
   </a>
 </div>
