@@ -32,7 +32,7 @@
 <div>
   <h2>💫 Sobre Mim</h2>
   <ul>
-    <li>🚀 No 4º semestre de Ciência da Computação</li>
+    <li>🚀 No 5º semestre de Ciência da Computação</li>
     <li>🌍 Morando em Sorocaba, SP</li>
     <li>🧠 Estudando Java e SQL</li>
     <li>✉️ <a href="mailto:OrlaEK@proton.me">OrlaEK@proton.me</a></li>
