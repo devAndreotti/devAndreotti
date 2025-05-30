@@ -34,7 +34,7 @@
   <ul>
     <li>🚀 No 5º semestre de Ciência da Computação</li>
     <li>🌍 Morando em Sorocaba, SP</li>
-    <li>🧠 Estudando Java e SQL</li>
+    <li>🧠 Estudando Python e SQL</li>
     <li>✉️ <a href="mailto:OrlaEK@proton.me">OrlaEK@proton.me</a></li>
   </ul>
 </div>
@@ -85,23 +85,23 @@
     </thead>
     <tbody>
       <tr>
-        <td>Imersão Dev com Google Gemini</td>
-        <td>Alura</td>
-        <td>Concluído</td>
+        <td>- - - - - - -</td>
+        <td>- - - - - - -</td>
+        <td>- - - - - - -</td>
       </tr>
       <tr>
-        <td>Bootcamp Blockchain</td>
-        <td>DIO</td>
-        <td>Concluído</td>
+        <td>- - - - - - -</td>
+        <td>- - - - - - -</td>
+        <td>- - - - - - -</td>
       </tr>
       <tr>
-        <td>Power BI</td>
-        <td>Simplifica</td>
-        <td>Concluído</td>
+        <td>- - - - - - -</td>
+        <td>- - - - - - -</td>
+        <td>- - - - - - -</td>
       </tr>
       <tr>
-        <td>Java AI Powered</td>
-        <td>DIO</td>
+        <td>- - - - - - -</td>
+        <td>- - - - - - -</td>
         <td>- - - - - - -</td>
       </tr>
     </tbody>
