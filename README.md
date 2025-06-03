@@ -67,8 +67,8 @@
   <h3>Sistemas Operacionais</h3>
   <div style="text-align: left;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="28" alt="Android" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="28" alt="Debian" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="28" alt="Windows" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="28" alt="Debian" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="28" alt="Fedora" />
   </div>
 
@@ -111,9 +111,9 @@
 <!-- Seção de estatísticas do github -->
 <div>
   <h2>📊 Estatísticas</h2>
-  <p>📦 237,6 MB usados no armazenamento</p>
-  <p>🏆 496 contribuições nesse ano</p>
-  <p>📜 30 repositórios públicos</p>
+  <p>📦 + 257,6 MB usados no armazenamento</p>
+  <p>🏆 601 contribuições no ano passado</p>
+  <p>📜 38 repositórios públicos</p>
   <p>🔑 7 repositórios privados</p>
 </div>
 
