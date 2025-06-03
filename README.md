@@ -63,8 +63,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devAndreotti&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" width="385" alt="Gráfico de Linguagens" />
 </div>
 
+<!-- Seção de estatísticas do github -->
+<div>
+  <h2>📊 Estatísticas</h2>
+  <p>📦 + 257,6 MB usados no armazenamento</p>
+  <p>🏆 601 contribuições no ano passado</p>
+  <p>📜 38 repositórios públicos</p>
+  <p>🔑 7 repositórios privados</p>
+</div>
+
 <!-- Seção de sistemas operacionais -->
-  <h3>Sistemas Operacionais</h3>
+  <h2>💻 Sistemas Operacionais</h2>
   <div style="text-align: left;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="28" alt="Android" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="28" alt="Windows" />
@@ -106,15 +115,6 @@
       </tr>
     </tbody>
   </table>
-</div>
-
-<!-- Seção de estatísticas do github -->
-<div>
-  <h2>📊 Estatísticas</h2>
-  <p>📦 + 257,6 MB usados no armazenamento</p>
-  <p>🏆 601 contribuições no ano passado</p>
-  <p>📜 38 repositórios públicos</p>
-  <p>🔑 7 repositórios privados</p>
 </div>
 
 <!-- SVG de enfeite -->
