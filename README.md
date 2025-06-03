@@ -73,7 +73,7 @@
 </div>
 
 <!-- Seção de sistemas operacionais -->
-  <h2>💻 Sistemas Operacionais</h2>
+  <h3>Sistemas Operacionais</h3>
   <div style="text-align: left;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="28" alt="Android" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="28" alt="Windows" />
