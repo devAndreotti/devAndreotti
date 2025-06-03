@@ -14,7 +14,7 @@
 
 <!-- Links para redes sociais com ícones no centro -->
 <div align= "right">
-  <a href="https://www.instagram.com/yourprofile">
+  <a href="https://www.instagram.com/ricardo.agonc">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=8E44AD&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/ricardo-andreotti-gonçalves-0b5785283">
