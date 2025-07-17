@@ -28,7 +28,7 @@
 <div>
   <h2>📊 Estatísticas do GitHub</h2>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=devAndreotti&show_icons=true&theme=radical" alt="Estatísticas do GitHub" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=devAndreotti&show_icons=true&theme=radical" alt="Estatísticas do GitHub" width="378"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=devAndreotti&theme=radical" alt="Estatísticas de Streak" width="400"/>
   </p>
 </div>
