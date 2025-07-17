@@ -1,10 +1,6 @@
 <!-- Seção de introdução -->
 <div>
-  <p>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&duration=4000&color=8E44AD&vCenter=true&width=500&lines=%F0%9F%91%8B+Sou+Ricardo+Andreotti;Aluno+de+Ci%C3%AAncia+da+Comput.+%F0%9F%92%AA" alt="Typing SVG" />
-    </a>
-  </p>
+  <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&duration=4000&color=8E44AD&vCenter=true&width=500&lines=%F0%9F%91%8B+Sou+Ricardo+Andreotti;Aluno+de+Ci%C3%AAncia+da+Comput.+%F0%9F%92%AA" alt="Typing SVG" /></a></p>
 </div>
 
 <!-- Imagem de banner -->
@@ -12,7 +8,7 @@
   <img src="./HelloWorld.png" alt="Hello world!" />
 </div>
 
-<!-- Links para redes sociais com ícones no centro -->
+<!-- Links para redes sociais com ícones -->
 <div align= "right">
   <a href="https://www.instagram.com/ricardo.agonc">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=8E44AD&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="Instagram" />
@@ -58,54 +54,9 @@
   </div>
 </div>
 
-<!-- Gráfico de linguagens mais usadas no github, centralizado -->
+<!-- Gráfico de linguagens mais usadas no github -->
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devAndreotti&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" width="385" alt="Gráfico de Linguagens" />
-</div>
-
-<!-- Seção de estatísticas do github -->
-<div>
-  <h2>📊 Estatísticas</h2>
-  <p>📦 + 257,6 MB usados no armazenamento</p>
-  <p>🏆 601 contribuições no ano passado</p>
-  <p>📜 38 repositórios públicos</p>
-  <p>🔑 7 repositórios privados</p>
-</div>
-
-<!-- Seção de cursos atuais -->
-<div>
-  <h2>🎓 Cursos Atuais</h2>
-  <table>
-    <thead>
-      <tr>
-        <th>Curso</th>
-        <th>Plataforma</th>
-        <th>Status</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>- - - - - - -</td>
-        <td>- - - - - - -</td>
-        <td>- - - - - - -</td>
-      </tr>
-      <tr>
-        <td>- - - - - - -</td>
-        <td>- - - - - - -</td>
-        <td>- - - - - - -</td>
-      </tr>
-      <tr>
-        <td>- - - - - - -</td>
-        <td>- - - - - - -</td>
-        <td>- - - - - - -</td>
-      </tr>
-      <tr>
-        <td>- - - - - - -</td>
-        <td>- - - - - - -</td>
-        <td>- - - - - - -</td>
-      </tr>
-    </tbody>
-  </table>
 </div>
 
 <!-- Seção de sistemas operacionais -->
@@ -117,7 +68,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" style="height: 28px; width: 28px;" alt="Fedora" />
 </div>
 
-<!-- SVG de enfeite -->
+<!-- Seção das estatísticas do github -->
 <div>
+  <h2>📊 Estatísticas do GitHub</h2>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=devAndreotti&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=devAndreotti&theme=radical" alt="Estatísticas de Streak"/></p>
+</div>
+
+<!-- Gráfico de atividade recente -->
+<div>
+  <h2>📈 Atividade Recente</h2>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=devAndreotti&theme=github-compact" alt="Gráfico de Atividade"/>
+  </p>
+</div>
+
+<!-- Seção do SVG de enfeite -->
+<div align= "center">
   <img src="./purple.svg" alt="Purple SVG" />
 </div>
