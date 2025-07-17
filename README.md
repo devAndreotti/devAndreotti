@@ -24,6 +24,15 @@
   </a>
 </div>
 
+<!-- Seção das estatísticas do github -->
+<div>
+  <h2>📊 Estatísticas do GitHub</h2>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=devAndreotti&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devAndreotti&theme=radical" alt="Estatísticas de Streak"/>
+  </p>
+</div>
+
 <!-- Seção sobre mim -->
 <div>
   <h2>💫 Sobre Mim</h2>
@@ -66,15 +75,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="height: 28px; width: 28px;" alt="Windows" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" style="height: 28px; width: 28px;" alt="Debian" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" style="height: 28px; width: 28px;" alt="Fedora" />
-</div>
-
-<!-- Seção das estatísticas do github -->
-<div>
-  <h2>📊 Estatísticas do GitHub</h2>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=devAndreotti&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devAndreotti&theme=radical" alt="Estatísticas de Streak"/>
-  </p>
 </div>
 
 <!-- Gráfico de atividade recente -->
