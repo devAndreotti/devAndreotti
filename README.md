@@ -71,7 +71,10 @@
 <!-- Seção das estatísticas do github -->
 <div>
   <h2>📊 Estatísticas do GitHub</h2>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=devAndreotti&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=devAndreotti&theme=radical" alt="Estatísticas de Streak"/></p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=devAndreotti&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devAndreotti&theme=radical" alt="Estatísticas de Streak"/>
+  </p>
 </div>
 
 <!-- Gráfico de atividade recente -->
