@@ -68,6 +68,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devAndreotti&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" width="385" alt="Gráfico de Linguagens" />
 </div>
 
+<!-- Seção do GIF de enfeite -->
+<img align="right" alt="tux-typing-gif" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FdHk-LfzHrtwAAAAj%2Flinux-computer.gif&f=1&nofb=1&ipt=7c3ad5bd59f54e8a996347ae2cf673f43853d1d1e827c1ddbe9f08041c20c378" width="90px" />
+
 <!-- Seção de sistemas operacionais -->
 <h3>Sistemas Operacionais</h3>
 <div style="text-align: left;">
@@ -75,7 +78,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="height: 28px; width: 28px;" alt="Windows" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" style="height: 28px; width: 28px;" alt="Debian" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" style="height: 28px; width: 28px;" alt="Fedora" />
-</div>
+</div><br>
 
 <!-- Gráfico de atividade recente -->
 <div>
