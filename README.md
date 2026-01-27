@@ -19,7 +19,7 @@
   <a href="https://wa.me/5515981888676"">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=8E44AD&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="Whatsapp" />
   </a>
-  <a href="mailto:OrlaEK@proton.me">
+  <a href="mailto:devandreotti@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=8E44AD&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="Gmail" />
   </a>
 </div>
@@ -28,7 +28,7 @@
 <div>
   <h2>💫 Sobre Mim</h2>
   <ul>
-    <li>🚀 No 6º semestre de Ciência da Computação</li>
+    <li>🚀 No 7º semestre de Ciência da Computação</li>
     <li>🌍 Morando em Sorocaba, SP</li>
     <li>🧠 Estudando Python e SQL</li>
     <li>✉️ <a href="mailto:OrlaEK@proton.me">OrlaEK@proton.me</a></li>
