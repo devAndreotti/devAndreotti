@@ -43,8 +43,7 @@ const ricardo = {
     formação: "Ciência da Computação (7º semestre) 🎓",
     universidade: "UNIP",
     foco: ["Full Stack Development", "IA & Automação", "Cibersegurança"],
-    trabalhando: "Pulse Client Experts (Facilities Automation)",
-    aprendendo: ["Cisco CyberOps", "Next.js", "Kubernetes"],
+    aprendendo: ["Cisco CyberOps", "Next.js"],
     hobbies: ["Coding", "Open Source", "Tech Blogs", "Linux"],
     email: "devandreotti@gmail.com"
 };
