@@ -1,16 +1,23 @@
-<!-- Seção de introdução -->
+<!-- ============================================ -->
+<!-- SEÇÃO: INTRODUÇÃO E HEADER                   -->
+<!-- ============================================ -->
+
+<!-- Typing SVG Animado -->
 <div>
   <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&duration=4000&color=8E44AD&vCenter=true&width=500&lines=%F0%9F%91%8B+Sou+Ricardo+Andreotti;Aluno+de+Ci%C3%AAncia+da+Comput.+%F0%9F%92%AA" alt="Typing SVG" /></a></p>
 </div>
 
-<!-- Banner -->
+<!-- Banner Principal -->
 <div align="center">
   <img src="./HelloWorld.png" alt="Hello World!" />
 </div>
 
 <br>
 
-<!-- Badges de contato -->
+<!-- ============================================ -->
+<!-- SEÇÃO: BADGES DE CONTATO                     -->
+<!-- ============================================ -->
+
 <div align="center">
   <a href="https://www.linkedin.com/in/ricardo-andreotti">
     <img src="https://img.shields.io/badge/LinkedIn-8E44AD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -34,9 +41,13 @@
 
 <br>
 
-<!-- Trecho de Código -->
+<!-- ============================================ -->
+<!-- SEÇÃO: SOBRE MIM                             -->
+<!-- ============================================ -->
+
 ## 💫 Sobre Mim
 
+<!-- GIF de código no canto direito -->
 <img align="right" alt="coding-gif" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FdHk-LfzHrtwAAAAj%2Flinux-computer.gif&f=1&nofb=1" width="90px" />
 
 ```javascript
@@ -51,14 +62,22 @@ const ricardo = {
 };
 ```
 
+<!-- Calendário de Contribuições (GitHub Metrics) -->
 <p align="center">
-  <img src="https://github.com/devAndreotti/metrics/blob/master/calendar-iso.svg" width="100%" />
+  <img src="https://github.com/devAndreotti/metrics/blob/master/calendar-iso.svg" width="45%" />
+  <img src="https://github.com/devAndreotti/metrics/blob/master/habits.svg" width="54%" />
 </p>
 
 <br>
 
+<!-- ============================================ -->
+<!-- SEÇÃO: STACK TÉCNICO                         -->
+<!-- Dropdowns com tecnologias por categoria       -->
+<!-- ============================================ -->
+
 ## 🛠️ Stack Técnico
 
+<!-- Front-End Technologies -->
 <details>
 <summary><b>🎨 Front-End</b></summary>
 <br>
@@ -73,6 +92,7 @@ const ricardo = {
 
 </details>
 
+<!-- Back-End e Databases -->
 <details>
 <summary><b>⚙️ Back-End & Databases</b></summary>
 <br>
@@ -85,8 +105,10 @@ const ricardo = {
 
 </details>
 
+<!-- Imagem decorativa no lado direito -->
 <img align="right" alt="coding-gif" src="Computer.png" width="180px" />
 
+<!-- Automação e IA -->
 <details>
 <summary><b>🤖 Automação & IA</b></summary>
 <br>
@@ -97,6 +119,7 @@ const ricardo = {
 
 </details>
 
+<!-- DevOps e Cloud -->
 <details>
 <summary><b>🐳 DevOps & Cloud</b></summary>
 <br>
@@ -109,6 +132,7 @@ const ricardo = {
 
 </details>
 
+<!-- Cibersegurança e Dados -->
 <details>
 <summary><b>🔐 Cibersegurança & Dados</b></summary>
 <br>
@@ -122,17 +146,14 @@ const ricardo = {
 
 <br>
 
-<br>
-
-<!--
-<p align="center">
-  <img src="https://github.com/devAndreotti/metrics/blob/master/habits.svg" width="100%" />
-</p>
--->
-
+<!-- Divisor decorativo -->
 <div align="center">
   <img src="./purple.svg" alt="Purple Wave" width="100%" />
 </div>
+
+<!-- ============================================ -->
+<!-- SEÇÃO: GRÁFICO DE CONTRIBUIÇÕES              -->
+<!-- ============================================ -->
 
 <div align="center">
 <a href="https://github.com/devAndreotti">
@@ -140,11 +161,25 @@ const ricardo = {
 </a>
 </div>
 
+<!-- GitHub Trophies (linha completa) -->
+<div align="center">
+<a href="https://github.com/devAndreotti">
+  <img src="https://github-trophies.vercel.app/?username=devAndreotti&theme=merko&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" width="100%" />
+</a>
+</div>
+
+<br>
+
+<!-- ============================================ -->
+<!-- SEÇÃO: CERTIFICAÇÕES E CURSOS                -->
+<!-- Organizadas por categoria em dropdowns        -->
+<!-- ============================================ -->
 
 ## 📚 Certificações & Cursos
 
+<!-- Cibersegurança -->
 <details>
-<summary><b>🔐 Cibersegurança</b></summary>
+<summary><b>🔐 Cibersegurança (3 certificações)</b></summary>
 <br>
 
 ![CyberOps](https://img.shields.io/badge/Cisco_CyberOps_Associate-Em_Andamento-FFA500?style=for-the-badge&logo=cisco&logoColor=white)
@@ -153,8 +188,9 @@ const ricardo = {
 
 </details>
 
+<!-- IA e Automação -->
 <details>
-<summary><b>🤖 IA & Automação</b></summary>
+<summary><b>🤖 IA & Automação (2 certificações)</b></summary>
 <br>
 
 ![N8N](https://img.shields.io/badge/Automação_com_N8N-Concluído-00C851?style=for-the-badge&logo=n8n&logoColor=white)
@@ -162,8 +198,9 @@ const ricardo = {
 
 </details>
 
+<!-- Cloud e Dados -->
 <details>
-<summary><b>☁️ Cloud & Dados</b></summary>
+<summary><b>☁️ Cloud & Dados (3 certificações)</b></summary>
 <br>
 
 ![Azure](https://img.shields.io/badge/AZ--900:_Azure_Fundamentals-Concluído-00C851?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -172,8 +209,9 @@ const ricardo = {
 
 </details>
 
+<!-- Blockchain -->
 <details>
-<summary><b>⛓️ Blockchain</b></summary>
+<summary><b>⛓️ Blockchain (1 certificação)</b></summary>
 <br>
 
 ![Solidity](https://img.shields.io/badge/Blockchain_Developer_with_Solidity-Concluído-00C851?style=for-the-badge&logo=solidity&logoColor=white)
@@ -182,74 +220,87 @@ const ricardo = {
 
 <br>
 
+<!-- ============================================ -->
+<!-- SEÇÃO: PROJETOS EM DESTAQUE                  -->
+<!-- Grid 2x3 com principais projetos              -->
+<!-- ============================================ -->
+
 ## 🚀 Projetos em Destaque
 
 <div align="center">
 <table>
 <tr>
+<!-- Projeto 1: Chef AI -->
 <td width="50%" valign="top">
 
-### 🤖 Chef AI - Chatbot Inteligente
-[![Repo](https://img.shields.io/badge/GitHub-Repo-8E44AD?style=for-the-badge&logo=github)](https://github.com/devAndreotti/chef-ai)
+  ### 🤖 Chef AI - Chatbot Inteligente
+  
+[![Repo](https://img.shields.io/badge/GitHub-Repo-E74C3C?style=for_the_badge&logo=github)](https://github.com/devAndreotti/chef-ai)
 
 Aplicação web com **Gemini AI** para sugestões personalizadas de receitas usando **n8n** para automação.
 
 **Tech Stack:** React, TypeScript, Tailwind CSS, n8n, Gemini AI
 
 </td>
+<!-- Projeto 2: Crypto Glass -->
 <td width="50%" valign="top">
 
-### 📊 Gold Portfolio Analyzer
-[![Repo](https://img.shields.io/badge/GitHub-Repo-8E44AD?style=for-the-badge&logo=github)](https://github.com/devAndreotti/gold-portfolio)
+  ### 📊 Crypto Glass Hub
+  
+[![Repo](https://img.shields.io/badge/GitHub-Repo-E74C3C?style=for_the_badge&logo=github)](https://github.com/devAndreotti/crypto-glass-hub)
 
-Ferramenta de análise de investimentos com visualizações avançadas e foco no mercado brasileiro.
+Plataforma cripto com dados dinâmicos, visual 3D e tema claro/escuro. Moderna, fluida e responsiva para todos os dispositivos.
 
-**Tech Stack:** React, TypeScript, Recharts, Supabase
-
+**Tech Stack:** React, TypeScript, Tailwind CSS, Spline
 </td>
+
 </tr>
 <tr>
+<!-- Projeto 3: Cook App -->
 <td width="50%" valign="top">
-
+  
 ### 📱 Cook App - Mobile
-[![Repo](https://img.shields.io/badge/GitHub-Repo-8E44AD?style=for-the-badge&logo=github)](https://github.com/devAndreotti/cook-app)
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-E74C3C?style=for_the_badge&logo=github)](https://github.com/devAndreotti/cook-app)
 
 App cross-platform (Android/iOS) para gerenciamento de receitas com backend completo.
 
 **Tech Stack:** React Native, Expo, TypeScript, Supabase
-
 </td>
+<!-- Projeto 4: Git Wizard Commander -->
 <td width="50%" valign="top">
+  
+### 🛡️ Git Wizard Commander
 
-### 🛡️ Pi-hole Network AdBlocker
-[![Repo](https://img.shields.io/badge/GitHub-Repo-8E44AD?style=for-the-badge&logo=github)](https://github.com/devAndreotti/pihole-docker)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-E74C3C?style=for_the_badge&logo=github)](https://github.com/devAndreotti/git-wizard-commander-34)
 
 Bloqueador de anúncios em nível de rede usando Docker em Raspberry Pi.
 
 **Tech Stack:** Docker, Raspberry Pi, Linux, Networking
-
 </td>
 </tr>
 <tr>
+<!-- Projeto 5: UPA Clinic -->
 <td width="50%" valign="top">
+  
+### 🏥 UPA Clinic - Site Odontológico
 
-### ⚡ Automação Empresarial
-[![Private](https://img.shields.io/badge/Private-Empresa-gray?style=for-the-badge&logo=lock)](javascript:void(0))
+[![Repo](https://img.shields.io/badge/GitHub-Repo-E74C3C?style=for_the_badge&logo=github)](https://github.com/devAndreotti/upa-clinic)
 
-Sistema que reduziu **40% do tempo** de geração de relatórios através de automação.
+Site para clínica odontológica com foco em usabilidade, design moderno e formulários com validação.
 
-**Tech Stack:** Power Automate, Excel, Outlook
-
+picked **Tech Stack:** HTML, CSS, JavaScript
 </td>
+<!-- Projeto 6: Detector de Polichinelos -->
 <td width="50%" valign="top">
-
+  
 ### 🏃 Detector de Polichinelos
-[![Repo](https://img.shields.io/badge/GitHub-Repo-8E44AD?style=for-the-badge&logo=github)](https://github.com/devAndreotti/detector-polichinelos)
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-E74C3C?style=for_the_badge&logo=github)](https://github.com/devAndreotti/detector-polichinelos)
 
 Projeto acadêmico usando **Visão Computacional** para detecção de exercícios.
 
 **Tech Stack:** Python, OpenCV, Machine Learning
-
 </td>
 </tr>
 </table>
@@ -257,8 +308,14 @@ Projeto acadêmico usando **Visão Computacional** para detecção de exercício
 
 <br>
 
+<!-- ============================================ -->
+<!-- SEÇÃO: ESTATÍSTICAS DO GITHUB                -->
+<!-- Cards de stats, linguagens, streak e trophies -->
+<!-- ============================================ -->
+
 ## 📊 Estatísticas do GitHub
 
+<!-- Stats e Linguagens (lado a lado) -->
 <div align="center">
 
 ### 📈 GitHub Stats & Linguagens
@@ -270,6 +327,7 @@ Projeto acadêmico usando **Visão Computacional** para detecção de exercício
 
 </div>
 
+<!-- Streak e Tempo Produtivo (lado a lado) -->
 <div align="center">
 
 ### 🔥 GitHub Streak & Tempo Produtivo
@@ -281,16 +339,44 @@ Projeto acadêmico usando **Visão Computacional** para detecção de exercício
 
 </div>
 
-<div align="center">
+<br>
 
-### 🏆 GitHub Trophies
+<!-- ============================================ -->
+<!-- SEÇÃO: FOOTER                                -->
+<!-- Divisor e mensagem final                      -->
+<!-- ============================================ -->
 
-<a href="https://github.com/devAndreotti">
-  <img src="https://github-trophies.vercel.app/?username=devAndreotti&theme=merko&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" width="100%" />
-</a>
-
-</div>
-
+<!-- Divisor final -->
 <div align="center">
   <img src="./purple.svg" alt="Purple Wave" width="100%" />
 </div>
+
+<!-- Mensagem final e contador de views -->
+<div align="center">
+  
+### ⭐ Se você gostou dos meus projetos, não esqueça de dar uma estrela!
+  
+![Profile Views](https://komarev.com/ghpvc/?username=devAndreotti&color=8E44AD&style=flat-square&label=Profile+Views)
+  
+<br>
+  
+**💜 Feito com dedicação por Ricardo Andreotti**
+  
+</div>
+
+<!-- ============================================ -->
+<!-- SEÇÃO OPCIONAL: GITHUB METRICS DETALHADO     -->
+<!-- Descomente se quiser incluir metrics          -->
+<!-- ============================================ -->
+
+<!--
+<br>
+
+## 📊 GitHub Metrics Detalhado
+
+<div align="center">
+  <a href="https://github.com/devAndreotti">
+    <img src="https://raw.githubusercontent.com/devAndreotti/metrics/master/github-metrics.svg" alt="Detailed Metrics" width="100%" />
+  </a>
+</div>
+-->
