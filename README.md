@@ -7,6 +7,11 @@
   <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&duration=4000&color=8E44AD&vCenter=true&width=500&lines=%F0%9F%91%8B+Sou+Ricardo+Andreotti;Aluno+de+Ci%C3%AAncia+da+Comput.+%F0%9F%92%AA" alt="Typing SVG" /></a></p>
 </div>
 
+<!-- Divisor final -->
+<div align="center">
+  <img src="./purple.svg" alt="Purple Wave" width="100%" />
+</div>
+
 <!-- Banner Principal -->
 <div align="center">
   <img src="./HelloWorld.png" alt="Hello World!" />
@@ -235,7 +240,7 @@ const ricardo = {
 
   ### 🤖 Chef AI - Chatbot Inteligente
   
-[![Repo](https://img.shields.io/badge/GitHub-Repo-E74C3C?style=for_the_badge&logo=github)](https://github.com/devAndreotti/chef-ai)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-E74C3C?style=for_the_badge&logo=github)](https://github.com/devAndreotti/my-first-vibe-coding-project)
 
 Aplicação web com **Gemini AI** para sugestões personalizadas de receitas usando **n8n** para automação.
 
@@ -296,7 +301,7 @@ picked **Tech Stack:** HTML, CSS, JavaScript
   
 ### 🏃 Detector de Polichinelos
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-E74C3C?style=for_the_badge&logo=github)](https://github.com/devAndreotti/detector-polichinelos)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-E74C3C?style=for_the_badge&logo=github)](https://github.com/devAndreotti/APS-06)
 
 Projeto acadêmico usando **Visão Computacional** para detecção de exercícios.
 
@@ -313,31 +318,23 @@ Projeto acadêmico usando **Visão Computacional** para detecção de exercício
 <!-- Cards de stats, linguagens, streak e trophies -->
 <!-- ============================================ -->
 
-## 📊 Estatísticas do GitHub
-
+## 📈 GitHub Stats & Linguagens
 <!-- Stats e Linguagens (lado a lado) -->
-<div align="center">
-
-### 📈 GitHub Stats & Linguagens
 
 <a href="https://github.com/devAndreotti">
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devAndreotti&theme=midnight_purple" alt="GitHub Stats"/>
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devAndreotti&theme=midnight_purple" alt="Repos per Language"/>
 </a>
 
-</div>
+<br>
 
+## 🔥 GitHub Streak & Tempo Produtivo
 <!-- Streak e Tempo Produtivo (lado a lado) -->
-<div align="center">
-
-### 🔥 GitHub Streak & Tempo Produtivo
 
 <a href="https://github.com/devAndreotti">
   <img height="180em" src="https://github-readme-streak-stats-phi-khaki.vercel.app/?user=devAndreotti&theme=midnight-purple&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devAndreotti&theme=midnight_purple&utcOffset=8" alt="Productive Time"/>
 </a>
-
-</div>
 
 <br>
 
@@ -350,33 +347,3 @@ Projeto acadêmico usando **Visão Computacional** para detecção de exercício
 <div align="center">
   <img src="./purple.svg" alt="Purple Wave" width="100%" />
 </div>
-
-<!-- Mensagem final e contador de views -->
-<div align="center">
-  
-### ⭐ Se você gostou dos meus projetos, não esqueça de dar uma estrela!
-  
-![Profile Views](https://komarev.com/ghpvc/?username=devAndreotti&color=8E44AD&style=flat-square&label=Profile+Views)
-  
-<br>
-  
-**💜 Feito com dedicação por Ricardo Andreotti**
-  
-</div>
-
-<!-- ============================================ -->
-<!-- SEÇÃO OPCIONAL: GITHUB METRICS DETALHADO     -->
-<!-- Descomente se quiser incluir metrics          -->
-<!-- ============================================ -->
-
-<!--
-<br>
-
-## 📊 GitHub Metrics Detalhado
-
-<div align="center">
-  <a href="https://github.com/devAndreotti">
-    <img src="https://raw.githubusercontent.com/devAndreotti/metrics/master/github-metrics.svg" alt="Detailed Metrics" width="100%" />
-  </a>
-</div>
--->
