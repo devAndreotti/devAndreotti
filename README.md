@@ -34,6 +34,7 @@
 
 <br>
 
+<!-- Trecho de Código -->
 ## 💫 Sobre Mim
 
 <img align="right" alt="coding-gif" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FdHk-LfzHrtwAAAAj%2Flinux-computer.gif&f=1&nofb=1" width="100px" />
@@ -50,11 +51,11 @@ const ricardo = {
 };
 ```
 
-<br>
-
 <p align="center">
   <img src="https://github.com/devAndreotti/metrics/blob/master/calendar-iso.svg" width="100%" />
 </p>
+
+<br>
 
 ## 🛠️ Stack Técnico
 
@@ -123,9 +124,15 @@ const ricardo = {
 
 <br>
 
+<!--
 <p align="center">
   <img src="https://github.com/devAndreotti/metrics/blob/master/habits.svg" width="100%" />
 </p>
+-->
+
+<div align="center">
+  <img src="./purple.svg" alt="Purple Wave" width="100%" />
+</div>
 
 <div align="center">
 <a href="https://github.com/devAndreotti">
@@ -137,42 +144,43 @@ const ricardo = {
 ## 📚 Certificações & Cursos
 
 <details>
-<summary><b>🔐 Cibersegurança (3 certificações)</b></summary>
+<summary><b>🔐 Cibersegurança</b></summary>
 <br>
 
-- 🟠 **Cisco CyberOps Associate** - Em Andamento (2026)
-- ✅ **CCNA: Introduction to Networks** - Cisco (Dez 2025)
-- ✅ **Cyber Threat Management** - Cisco (Set 2025)
+![CyberOps](https://img.shields.io/badge/Cisco_CyberOps_Associate-Em_Andamento-FFA500?style=for-the-badge&logo=cisco&logoColor=white)
+![CCNA](https://img.shields.io/badge/CCNA:_Introduction_to_Networks-Concluído-00C851?style=for-the-badge&logo=cisco&logoColor=white)
+![Cyber Threat](https://img.shields.io/badge/Cyber_Threat_Management-Concluído-00C851?style=for-the-badge&logo=cisco&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>🤖 IA & Automação (2 certificações)</b></summary>
+<summary><b>🤖 IA & Automação</b></summary>
 <br>
 
-- ✅ **Automação com N8N** - Santander/DIO (Jan 2026)
-- ✅ **Fundamentos de IA Generativa** - Universia/DIO (Nov 2025)
+![N8N](https://img.shields.io/badge/Automação_com_N8N-Concluído-00C851?style=for-the-badge&logo=n8n&logoColor=white)
+![IA Generativa](https://img.shields.io/badge/Fundamentos_de_IA_Generativa-Concluído-00C851?style=for-the-badge&logo=google&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>☁️ Cloud & Dados (3 certificações)</b></summary>
+<summary><b>☁️ Cloud & Dados</b></summary>
 <br>
 
-- ✅ **AZ-900: Azure Fundamentals** - Microsoft (Nov 2023)
-- ✅ **DP-900: Data Fundamentals** - Microsoft (Jun 2023)
-- ✅ **Power BI: Análise de Dados** - Senai (Jun 2023)
+![Azure](https://img.shields.io/badge/AZ--900:_Azure_Fundamentals-Concluído-00C851?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Data](https://img.shields.io/badge/DP--900:_Data_Fundamentals-Concluído-00C851?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI:_Análise_de_Dados-Concluído-00C851?style=for-the-badge&logo=power-bi&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>⛓️ Blockchain (1 certificação)</b></summary>
+<summary><b>⛓️ Blockchain</b></summary>
 <br>
 
-- ✅ **Blockchain Developer with Solidity** - Binance/DIO (Set 2024)
+![Solidity](https://img.shields.io/badge/Blockchain_Developer_with_Solidity-Concluído-00C851?style=for-the-badge&logo=solidity&logoColor=white)
 
 </details>
 
+<br>
 
 ## 🚀 Projetos em Destaque
 
