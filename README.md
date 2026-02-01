@@ -32,7 +32,9 @@
   </a>
 </div>
 
+<div align="center">
 <img align="right" alt="coding-gif" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FdHk-LfzHrtwAAAAj%2Flinux-computer.gif&f=1&nofb=1" width="90px" />
+</div>
 
 <br>
 
