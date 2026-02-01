@@ -40,17 +40,21 @@
 
 ```javascript
 const ricardo = {
-    localização: "Sorocaba, SP 🇧🇷",
+    foco: ["Full Stack", "IA & Automação", "Cibersegurança"],
     formação: "Ciência da Computação (7º semestre)",
+    localização: "Sorocaba, SP",
     universidade: "UNIP",
-    foco: ["Full Stack Development", "IA & Automação", "Cibersegurança"],
-    aprendendo: ["Cisco CyberOps", "Next.js"],
     hobbies: ["Coding", "Open Source", "Chess", "Linux"],
+    aprendendo: ["Cisco CyberOps", "Next.js"],
     email: "devandreotti@gmail.com"
 };
 ```
 
 <br>
+
+<p align="center">
+  <img src="https://github.com/devAndreotti/metrics/blob/master/calendar-iso.svg" width="100%" />
+</p>
 
 ## 🛠️ Stack Técnico
 
@@ -120,7 +124,6 @@ const ricardo = {
 <br>
 
 <p align="center">
-  <img src="https://github.com/devAndreotti/metrics/blob/master/calendar-iso.svg" width="100%" />
   <img src="https://github.com/devAndreotti/metrics/blob/master/habits.svg" width="100%" />
 </p>
 
@@ -283,7 +286,3 @@ Projeto acadêmico usando **Visão Computacional** para detecção de exercício
 <div align="center">
   <img src="./purple.svg" alt="Purple Wave" width="100%" />
 </div>
-
-<p align="center">
-  <img src="https://github.com/devAndreotti/metrics/blob/master/calendar-full.svg" width="100%" />
-</p>
