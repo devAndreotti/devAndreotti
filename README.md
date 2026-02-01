@@ -54,7 +54,7 @@ const ricardo = {
 
 ## 🛠️ Stack Técnico
 
-<details open>
+<details>
 <summary><b>🎨 Front-End</b></summary>
 <br>
 
@@ -68,7 +68,7 @@ const ricardo = {
 
 </details>
 
-<details open>
+<details>
 <summary><b>⚙️ Back-End & Databases</b></summary>
 <br>
 
@@ -80,7 +80,9 @@ const ricardo = {
 
 </details>
 
-<details open>
+<img align="right" alt="coding-gif" src="Computer.png" width="180px" />
+
+<details>
 <summary><b>🤖 Automação & IA</b></summary>
 <br>
 
@@ -90,7 +92,7 @@ const ricardo = {
 
 </details>
 
-<details open>
+<details>
 <summary><b>🐳 DevOps & Cloud</b></summary>
 <br>
 
@@ -102,7 +104,7 @@ const ricardo = {
 
 </details>
 
-<details open>
+<details>
 <summary><b>🔐 Cibersegurança & Dados</b></summary>
 <br>
 
