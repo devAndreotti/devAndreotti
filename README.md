@@ -115,31 +115,37 @@ const ricardo = {
 
 <br>
 
-## 📚 Certificações & Cursos
-
-<div align="center">
-
-| 📖 Curso/Certificação | 🏢 Instituição | 📅 Data | ✅ Status |
-|:---|:---:|:---:|:---:|
-| **Cisco CyberOps Associate** | Cisco Networking Academy | Jan 2026 - Atual | ![Em Andamento](https://img.shields.io/badge/Em_Andamento-FFA500?style=flat-square) |
-| **Automação com N8N** | Santander/DIO | Janeiro 2026 | ![Concluído](https://img.shields.io/badge/Concluído-00C851?style=flat-square) |
-| **CCNA: Introduction to Networks** | Cisco Networking Academy | Dezembro 2025 | ![Concluído](https://img.shields.io/badge/Concluído-00C851?style=flat-square) |
-| **Fundamentos de IA Generativa** | Universia/DIO | Novembro 2025 | ![Concluído](https://img.shields.io/badge/Concluído-00C851?style=flat-square) |
-| **Cyber Threat Management** | Cisco Networking Academy | Setembro 2025 | ![Concluído](https://img.shields.io/badge/Concluído-00C851?style=flat-square) |
-| **Blockchain Developer with Solidity** | Binance/DIO | Setembro 2024 | ![Concluído](https://img.shields.io/badge/Concluído-00C851?style=flat-square) |
-| **AZ-900: Azure Fundamentals** | Microsoft/Senai | Novembro 2023 | ![Concluído](https://img.shields.io/badge/Concluído-00C851?style=flat-square) |
-| **DP-900: Data Fundamentals** | Microsoft/Senai | Junho 2023 | ![Concluído](https://img.shields.io/badge/Concluído-00C851?style=flat-square) |
-| **Power BI: Análise de Dados** | Senai | Junho 2023 | ![Concluído](https://img.shields.io/badge/Concluído-00C851?style=flat-square) |
-
-</div>
-
 <br>
+
+<p align="center">
+  <img src="https://github.com/devAndreotti/metrics/blob/master/calendar-iso.svg" width="54%" />
+  <img src="https://github.com/devAndreotti/metrics/blob/master/habits.svg" width="45%" />
+</p>
 
 <div align="center">
 <a href="https://github.com/devAndreotti">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devAndreotti&theme=merko&hide_border=true&area=true&&custom_title=📈%20Contribution%20Graph" alt="Contribution Graph" width="100%" />
 </a>
 </div>
+
+
+## 📚 Certificações & Cursos
+<div align="center">
+  
+![Cisco CyberOps](https://img.shields.io/badge/🔐_Cisco_CyberOps_Associate-Em_Andamento-FFA500?style=for-the-badge)
+![CCNA](https://img.shields.io/badge/🔐_CCNA_Networks-Concluído-00C851?style=for-the-badge)
+![Cyber Threat](https://img.shields.io/badge/🔐_Cyber_Threat-Concluído-00C851?style=for-the-badge)
+
+![N8N](https://img.shields.io/badge/🤖_Automação_N8N-Concluído-00C851?style=for-the-badge)
+![IA Gen](https://img.shields.io/badge/🤖_IA_Generativa-Concluído-00C851?style=for-the-badge)
+![Solidity](https://img.shields.io/badge/⛓️_Solidity-Concluído-00C851?style=for-the-badge)
+
+![Azure](https://img.shields.io/badge/☁️_Azure_AZ--900-Concluído-00C851?style=for-the-badge)
+![Data](https://img.shields.io/badge/☁️_Data_DP--900-Concluído-00C851?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/📊_Power_BI-Concluído-00C851?style=for-the-badge)
+
+</div>
+
 
 ## 🚀 Projetos em Destaque
 
@@ -253,3 +259,7 @@ Projeto acadêmico usando **Visão Computacional** para detecção de exercício
 <div align="center">
   <img src="./purple.svg" alt="Purple Wave" width="100%" />
 </div>
+
+<p align="center">
+  <img src="https://github.com/devAndreotti/metrics/blob/master/calendar-full.svg" width="100%" />
+</p>
