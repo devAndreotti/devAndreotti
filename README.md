@@ -118,8 +118,8 @@ const ricardo = {
 <br>
 
 <p align="center">
-  <img src="https://github.com/devAndreotti/metrics/blob/master/calendar-iso.svg" width="54%" />
-  <img src="https://github.com/devAndreotti/metrics/blob/master/habits.svg" width="45%" />
+  <img src="https://github.com/devAndreotti/metrics/blob/master/calendar-iso.svg" width="100%" />
+  <img src="https://github.com/devAndreotti/metrics/blob/master/habits.svg" width="100%" />
 </p>
 
 <div align="center">
@@ -130,21 +130,43 @@ const ricardo = {
 
 
 ## 📚 Certificações & Cursos
-<div align="center">
-  
-![Cisco CyberOps](https://img.shields.io/badge/🔐_Cisco_CyberOps_Associate-Em_Andamento-FFA500?style=for-the-badge)
-![CCNA](https://img.shields.io/badge/🔐_CCNA_Networks-Concluído-00C851?style=for-the-badge)
-![Cyber Threat](https://img.shields.io/badge/🔐_Cyber_Threat-Concluído-00C851?style=for-the-badge)
 
-![N8N](https://img.shields.io/badge/🤖_Automação_N8N-Concluído-00C851?style=for-the-badge)
-![IA Gen](https://img.shields.io/badge/🤖_IA_Generativa-Concluído-00C851?style=for-the-badge)
-![Solidity](https://img.shields.io/badge/⛓️_Solidity-Concluído-00C851?style=for-the-badge)
+<details>
+<summary><b>🔐 Cibersegurança (3 certificações)</b></summary>
+<br>
 
-![Azure](https://img.shields.io/badge/☁️_Azure_AZ--900-Concluído-00C851?style=for-the-badge)
-![Data](https://img.shields.io/badge/☁️_Data_DP--900-Concluído-00C851?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/📊_Power_BI-Concluído-00C851?style=for-the-badge)
+- 🟠 **Cisco CyberOps Associate** - Em Andamento (2026)
+- ✅ **CCNA: Introduction to Networks** - Cisco (Dez 2025)
+- ✅ **Cyber Threat Management** - Cisco (Set 2025)
 
-</div>
+</details>
+
+<details>
+<summary><b>🤖 IA & Automação (2 certificações)</b></summary>
+<br>
+
+- ✅ **Automação com N8N** - Santander/DIO (Jan 2026)
+- ✅ **Fundamentos de IA Generativa** - Universia/DIO (Nov 2025)
+
+</details>
+
+<details>
+<summary><b>☁️ Cloud & Dados (3 certificações)</b></summary>
+<br>
+
+- ✅ **AZ-900: Azure Fundamentals** - Microsoft (Nov 2023)
+- ✅ **DP-900: Data Fundamentals** - Microsoft (Jun 2023)
+- ✅ **Power BI: Análise de Dados** - Senai (Jun 2023)
+
+</details>
+
+<details>
+<summary><b>⛓️ Blockchain (1 certificação)</b></summary>
+<br>
+
+- ✅ **Blockchain Developer with Solidity** - Binance/DIO (Set 2024)
+
+</details>
 
 
 ## 🚀 Projetos em Destaque
