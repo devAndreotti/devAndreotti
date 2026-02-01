@@ -303,7 +303,7 @@ picked **Tech Stack:** HTML, CSS, JavaScript
 
 [![Repo](https://img.shields.io/badge/GitHub-Repo-E74C3C?style=for_the_badge&logo=github)](https://github.com/devAndreotti/APS-06)
 
-Projeto acadêmico usando **Visão Computacional** para detecção de exercícios.
+Projeto acadêmico usando **Visão Computacional** para detecção de exercícios e IA para métricas.
 
 **Tech Stack:** Python, OpenCV, Machine Learning
 </td>
