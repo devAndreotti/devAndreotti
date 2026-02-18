@@ -43,8 +43,6 @@
 
 ## 💫 Sobre Mim
 
-<img align="right" alt="coding gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="230px" width="200px" style="border-radius:12px;" />
-
 ```javascript
 const ricardo = {
     foco:        ["Full Stack", "IA & Automação", "Cibersegurança"],
@@ -94,9 +92,10 @@ const ricardo = {
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 </details>
 
@@ -180,8 +179,8 @@ const ricardo = {
 <summary><b>🤖 IA & Automação (2 certificações)</b></summary>
 <br>
 
-![N8N](https://img.shields.io/badge/Automação_com_N8N-✅_Concluído-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![IA Generativa](https://img.shields.io/badge/Fundamentos_de_IA_Generativa-✅_Concluído-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![N8N](https://img.shields.io/badge/Automação_com_N8N-✅_Concluído-FF2D78?style=for-the-badge&logo=n8n&logoColor=white)
+![IA Generativa](https://img.shields.io/badge/Fundamentos_de_IA_Generativa-✅_Concluído-00C853?style=for-the-badge&logo=google&logoColor=white)
 
 </details>
 
@@ -191,7 +190,7 @@ const ricardo = {
 <summary><b>🐧 Linux (1 certificação)</b></summary>
 <br>
 
-![Linux](https://img.shields.io/badge/Linux_Fundamentals-✅_Concluído-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux_Fundamentals-✅_Concluído-E8B000?style=for-the-badge&logo=linux&logoColor=black)
 
 </details>
 
@@ -199,9 +198,9 @@ const ricardo = {
 <summary><b>🔐 Cibersegurança (3 certificações)</b></summary>
 <br>
 
-![CCNA](https://img.shields.io/badge/CCNA:_Intro_to_Networks-✅_Concluído-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Cyber Threat](https://img.shields.io/badge/Cyber_Threat_Manag.-✅_Concluído-006EFF?style=for-the-badge&logo=cisco&logoColor=white)
-![CyberOps](https://img.shields.io/badge/Cisco_CyberOps-🔄_Em_Andamento-FF8C00?style=for-the-badge&logo=cisco&logoColor=white)
+![CCNA](https://img.shields.io/badge/CCNA:_Intro_to_Networks-✅_Concluído-00A8E0?style=for-the-badge&logo=cisco&logoColor=white)
+![Cyber Threat](https://img.shields.io/badge/Cyber_Threat_Manag.-✅_Concluído-E53935?style=for-the-badge&logo=cisco&logoColor=white)
+![CyberOps](https://img.shields.io/badge/Cisco_CyberOps-🔄_Em_Andamento-FF6B00?style=for-the-badge&logo=cisco&logoColor=white)
 
 </details>
 
@@ -209,8 +208,8 @@ const ricardo = {
 <summary><b>☁️ Cloud & Dados (3 certificações)</b></summary>
 <br>
 
-![Azure](https://img.shields.io/badge/AZ--900:_Azure_Fundamen.-✅_Concluído-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Data](https://img.shields.io/badge/DP--900:_Data_Fundamen.-✅_Concluído-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure](https://img.shields.io/badge/AZ--900:_Azure_Fundamen.-✅_Concluído-0090F1?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Data](https://img.shields.io/badge/DP--900:_Data_Fundamen.-✅_Concluído-00897B?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI:_Análise_de_Dados-✅_Concluído-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 </details>
@@ -219,7 +218,7 @@ const ricardo = {
 <summary><b>⛓️ Blockchain (1 certificação)</b></summary>
 <br>
 
-![Solidity](https://img.shields.io/badge/Blockchain_With_Solidity-✅_Concluído-627EEA?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Blockchain_With_Solidity-✅_Concluído-7B1FA2?style=for-the-badge&logo=ethereum&logoColor=white)
 
 </details>
 
@@ -237,13 +236,15 @@ const ricardo = {
 
 <td width="50%" valign="top">
 
-### 🤖 Chef AI — Chatbot Inteligente
+### 🧠 Chef AI - Agente Culinário
 [![Repo](https://img.shields.io/badge/GitHub-Ver_Projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/my-first-vibe-coding-project)
 
-Chatbot com **Gemini AI** para sugestões personalizadas de receitas via **n8n**.
+Agente culinário *vibe coding* que recebe ingredientes via Webhook, processa com **Google Gemini Flash** orquestrado pelo **n8n** e retorna receitas personalizadas numa interface elegante.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white)
 
@@ -254,10 +255,11 @@ Chatbot com **Gemini AI** para sugestões personalizadas de receitas via **n8n**
 ### 📊 Crypto Glass Hub
 [![Repo](https://img.shields.io/badge/GitHub-Ver_Projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/crypto-glass-hub)
 
-Plataforma cripto com dados dinâmicos, visual 3D e tema claro/escuro.
+Plataforma cripto com dashboard dinâmico, análise individual por ativo, filtros, tema claro/escuro e elementos 3D interativos via **Spline**.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Spline](https://img.shields.io/badge/Spline-000000?style=flat-square&logo=spline&logoColor=white)
 
@@ -268,27 +270,29 @@ Plataforma cripto com dados dinâmicos, visual 3D e tema claro/escuro.
 
 <td width="50%" valign="top">
 
-### 📱 Cook App — Mobile
+### 📱 Cook App - Mobile
 [![Repo](https://img.shields.io/badge/GitHub-Ver_Projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/cook-app)
 
-App cross-platform (Android/iOS) para gerenciamento de receitas com backend completo.
+App mobile (Android/iOS) desenvolvido no curso **Rocketseat**, integrando **Supabase** como BaaS para gerenciamento de receitas com autenticação e banco de dados em nuvem.
 
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🛡️ Git Wizard Commander
+### 🧙‍♂️ Git Wizard Commander
 [![Repo](https://img.shields.io/badge/GitHub-Ver_Projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/git-wizard-commander-34)
 
-Bloqueador de anúncios em nível de rede com Docker em Raspberry Pi.
+Plataforma interativa para aprender e padronizar Git — com construtor de comandos passo a passo, gerador de commits semânticos, quizzes e rastreamento de progresso.
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white)
 
 </td>
 
@@ -297,10 +301,10 @@ Bloqueador de anúncios em nível de rede com Docker em Raspberry Pi.
 
 <td width="50%" valign="top">
 
-### 🏥 UPA Clinic — Site Odontológico
+### 🏥 UPA Clinic - Site Odontológico
 [![Repo](https://img.shields.io/badge/GitHub-Ver_Projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/upa-clinic)
 
-Site odontológico com foco em usabilidade, design moderno e validação de formulários.
+Site odontológico responsivo com slider de imagens, formulários de contato com **validação animada** e seções de serviços e profissionais — iniciado no Senac e aprimorado em 2024.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=flat-square&logo=css3&logoColor=white)
@@ -310,14 +314,15 @@ Site odontológico com foco em usabilidade, design moderno e validação de form
 
 <td width="50%" valign="top">
 
-### 🏃 Detector de Polichinelos
+### 👁️ Detector de Polichinelos
 [![Repo](https://img.shields.io/badge/GitHub-Ver_Projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/APS-06)
 
-Visão Computacional para detecção de exercícios físicos em tempo real.
+Projeto acadêmico de Visão Computacional que detecta e conta polichinelos em tempo real (webcam) ou via vídeo MP4, com suporte a até duas pessoas e testes automatizados com **Playwright**.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
 
 </td>
 
@@ -373,9 +378,9 @@ Visão Computacional para detecção de exercícios físicos em tempo real.
 
 <div align="center">
 
-<br>
+<br><br>
 
-![Visitors](https://komarev.com/ghpvc/?username=devAndreotti&label=Profile%20Views&color=B044FF&style=for-the-badge)
+![Visitors](https://komarev.com/ghpvc/?username=devAndreotti&label=Profile%20Views&color=FF4757&style=for-the-badge)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer" width="100%" />
 
