@@ -239,14 +239,13 @@ const ricardo = {
 ### 🧠 Chef AI - Agente Culinário
 [![Repo](https://img.shields.io/badge/GitHub-Ver_Projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/my-first-vibe-coding-project)
 
-Agente culinário *vibe coding* que recebe ingredientes via Webhook, processa com **Google Gemini Flash** orquestrado pelo **n8n** e retorna receitas personalizadas numa interface elegante.
+Agente culinário que recebe ingredientes via Webhook, processa com **Google Gemini Flash** orquestrado pelo **n8n** e retorna receitas personalizadas numa interface elegante.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white)
 
 </td>
 
@@ -287,7 +286,7 @@ App mobile (Android/iOS) desenvolvido no curso **Rocketseat**, integrando **Supa
 ### 🧙‍♂️ Git Wizard Commander
 [![Repo](https://img.shields.io/badge/GitHub-Ver_Projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/git-wizard-commander-34)
 
-Plataforma interativa para aprender e padronizar Git — com construtor de comandos passo a passo, gerador de commits semânticos, quizzes e rastreamento de progresso.
+Plataforma interativa para aprender e padronizar Git, com construtor de comandos passo a passo, gerador de commits semânticos, quizzes e rastreamento de progresso.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -304,7 +303,7 @@ Plataforma interativa para aprender e padronizar Git — com construtor de coman
 ### 🏥 UPA Clinic - Site Odontológico
 [![Repo](https://img.shields.io/badge/GitHub-Ver_Projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/upa-clinic)
 
-Site odontológico responsivo com slider de imagens, formulários de contato com **validação animada** e seções de serviços e profissionais — iniciado no Senac e aprimorado em 2024.
+Site odontológico responsivo com slider de imagens, formulários de contato com **validação animada** e seções de serviços e profissionais, iniciado no Senac e aprimorado em 2024.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=flat-square&logo=css3&logoColor=white)
