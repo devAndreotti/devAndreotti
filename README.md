@@ -29,7 +29,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-andreotti)
 [![GitHub](https://img.shields.io/badge/GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti)
 [![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-FF4500?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devandreotti.github.io/frosted-motion-folio-v2/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devandreotti@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devandreotti@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-00BFA5?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515981888676)
 [![Instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ricardo.agonc)
 
@@ -43,7 +43,7 @@
 
 ## 💫 Sobre Mim
 
-<img align="right" alt="coding gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" style="border-radius:12px;" />
+<img align="right" alt="coding gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="230px" width="200px" style="border-radius:12px;" />
 
 ```javascript
 const ricardo = {
@@ -51,10 +51,10 @@ const ricardo = {
     formação:    "Ciência da Computação (7º semestre)",
     localização: "Sorocaba, SP 🇧🇷",
     universidade: "UNIP",
-    hobbies:     ["Coding 💻", "Open Source 🌐", "Chess ♟️", "Linux 🐧"],
-    estudando:   ["Cisco CyberOps 🔐", "Next.js ⚡", "n8n 🤖"],
+    estudando:   ["Cisco CyberOps", "Next.js", "n8n"],
+    hobbies:     ["Coding", "Chess", "Linux"],
     email:       "devandreotti@gmail.com",
-    status:      "Always building something cool 🚀"
+    status:      "Always building something cool"
 };
 ```
 
