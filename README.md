@@ -45,7 +45,7 @@
 
 ```javascript
 const ricardo = {
-    foco:        ["Full Stack", "IA & Automação", "Cibersegurança"],
+    foco:        ["Full Stack", "IA & Automação", "Cybersecurity"],
     formação:    "Ciência da Computação (7º semestre)",
     localização: "Sorocaba, SP 🇧🇷",
     universidade: "UNIP",
