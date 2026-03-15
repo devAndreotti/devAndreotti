@@ -32,6 +32,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devandreotti@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-00BFA5?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515981888676)
 [![Instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ricardo.agonc)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-devAndreotti-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ricardo230a)
 
 </div>
 
