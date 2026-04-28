@@ -49,7 +49,7 @@ const ricardo = {
     formação:    "Ciência da Computação (7º semestre)",
     localização: "Sorocaba, SP 🇧🇷",
     universidade: "UNIP",
-    estudando:   ["Cisco CyberOps", "Next.js", "n8n"],
+    estudando:   ["AI orchestration", "software architecture", "english."],
     hobbies:     ["Coding", "Chess", "Linux"],
     email:       "devandreotti@gmail.com",
     status:      "Always building something cool"
