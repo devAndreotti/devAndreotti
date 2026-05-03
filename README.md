@@ -284,7 +284,7 @@ App mobile (Android/iOS) desenvolvido no curso **Rocketseat**, integrando **Supa
 <td width="50%" valign="top">
 
 ### 🧙‍♂️ Git Wizard Commander
-[![Repo](https://img.shields.io/badge/GitHub-Ver_Projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/git-wizard-commander-34)
+[![Repo](https://img.shields.io/badge/GitHub-Ver_Projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/git-wizard-commander)
 
 Plataforma interativa para aprender e padronizar Git, com construtor de comandos passo a passo, gerador de commits semânticos, quizzes e rastreamento de progresso.
 
