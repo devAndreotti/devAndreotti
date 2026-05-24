@@ -73,7 +73,7 @@ const ricardo = {
 ## 🎯 Áreas de Interesse
 
 <div align="center">
-  <img src="./assets/areas_interesse_preview.svg" alt="Áreas de Interesse" width="100%" />
+  <img src="areas_interesse_preview.svg" alt="Áreas de Interesse" width="100%" />
 </div>
 
 <br>
