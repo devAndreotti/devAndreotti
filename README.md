@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&duration=3500&color=B044FF&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%91%8B+Ol%C3%A1%2C+sou+Ricardo+Andreotti!;Full+Stack+Developer+%F0%9F%9A%80;IA+%26+Automa%C3%A7%C3%A3o+%F0%9F%A4%96;Ciber+Seguran%C3%A7a+%F0%9F%94%90;Apaixonado+por+Open+Source+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&duration=3500&color=B044FF&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%91%8B+Ol%C3%A1%2C+sou+Ricardo+Andreotti!;Full+Stack+Developer+%F0%9F%9A%80;IA+%26+Automa%C3%A7%C3%A3o+%F0%9F%A4%96;Ciber+Seguran%C3%A7a+%F0%9F%94%90;Blockchain+%26+Web3+%E2%9B%93;Apaixonado+por+Open+Source+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 <img src="./purple.svg" alt="Purple Wave" width="100%" />
 
@@ -45,11 +45,12 @@
 
 ```javascript
 const ricardo = {
-    foco:        ["Full Stack", "IA & Automação", "Cybersecurity"],
+    foco:        ["Full Stack", "IA & Automação", "Cybersecurity", "Blockchain"],
     formação:    "Ciência da Computação (7º semestre)",
+    tcc:         "RAG aplicado a notas Obsidian e documentos corporativos",
     localização: "Sorocaba, SP 🇧🇷",
     universidade: "UNIP",
-    estudando:   ["AI orchestration", "software architecture", "english"],
+    estudando:   ["AI orchestration", "Ruby on Rails", "software architecture", "english"],
     hobbies:     ["Coding", "Chess", "Linux"],
     email:       "devandreotti@gmail.com",
     status:      "Always building something cool"
@@ -62,6 +63,18 @@ const ricardo = {
   <img src="https://github.com/devAndreotti/metrics/blob/master/calendar-iso.svg" width="45%" />
   <img src="https://github.com/devAndreotti/metrics/blob/master/habits.svg" width="54%" />
 </p>
+
+<br>
+
+<!-- ============================================ -->
+<!-- ÁREAS DE INTERESSE: SVG                      -->
+<!-- ============================================ -->
+
+## 🎯 Áreas de Interesse
+
+<div align="center">
+  <img src="./assets/areas_interesse.svg" alt="Áreas de Interesse" width="100%" />
+</div>
 
 <br>
 
@@ -83,6 +96,7 @@ const ricardo = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 </details>
 
@@ -92,6 +106,7 @@ const ricardo = {
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -107,8 +122,21 @@ const ricardo = {
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>⛓️ Blockchain & Web3</b></summary>
+<br>
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
 
 </details>
 
@@ -118,7 +146,10 @@ const ricardo = {
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 </details>
@@ -132,6 +163,7 @@ const ricardo = {
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Qubes OS](https://img.shields.io/badge/Qubes_OS-3874D8?style=for-the-badge&logo=qubes-os&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </details>
 
@@ -140,6 +172,7 @@ const ricardo = {
 <br>
 
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
@@ -184,13 +217,13 @@ const ricardo = {
 
 </details>
 
-<img align="right" alt="coding-gif" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FdHk-LfzHrtwAAAAj%2Flinux-computer.gif&f=1&nofb=1" width="90px" />
+<img align="right" alt="linux-gif" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FdHk-LfzHrtwAAAAj%2Flinux-computer.gif&f=1&nofb=1" width="90px" />
 
 <details>
 <summary><b>🐧 Linux (1 certificação)</b></summary>
 <br>
 
-![Linux](https://img.shields.io/badge/Linux_Fundamentals-✅_Concluído-E8B000?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux_Unhatched-✅_Concluído-E8B000?style=for-the-badge&logo=linux&logoColor=black)
 
 </details>
 
@@ -200,7 +233,7 @@ const ricardo = {
 
 ![CCNA](https://img.shields.io/badge/CCNA:_Intro_to_Networks-✅_Concluído-00A8E0?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cyber Threat](https://img.shields.io/badge/Cyber_Threat_Manag.-✅_Concluído-E53935?style=for-the-badge&logo=cisco&logoColor=white)
-![CyberOps](https://img.shields.io/badge/Cisco_CyberOps-🔄_Em_Andamento-FF6B00?style=for-the-badge&logo=cisco&logoColor=white)
+![CyberOps](https://img.shields.io/badge/Cisco_CyberOps_Associate-✅_Concluído-FF6B00?style=for-the-badge&logo=cisco&logoColor=white)
 
 </details>
 
@@ -222,6 +255,15 @@ const ricardo = {
 
 </details>
 
+<details>
+<summary><b>🛤️ Em Andamento</b></summary>
+<br>
+
+![Rails](https://img.shields.io/badge/Ruby_on_Rails_Bootcamp-🔄_Em_Andamento-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![EF SET](https://img.shields.io/badge/EF_SET_English_C2_Proficient-✅_71%2F100-0066CC?style=for-the-badge&logo=e&logoColor=white)
+
+</details>
+
 <br>
 
 <!-- ============================================ -->
@@ -237,7 +279,7 @@ const ricardo = {
 <td width="50%" valign="top">
 
 ### 🧠 Chef AI - Agente Culinário
-[![Repo](https://img.shields.io/badge/GitHub-Ver_Projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/my-first-vibe-coding-project)
+[![Repo](https://img.shields.io/badge/GitHub-Ver_Projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/chef-ai)
 
 Agente culinário que recebe ingredientes via Webhook, processa com **Google Gemini Flash** orquestrado pelo **n8n** e retorna receitas personalizadas numa interface elegante.
 
@@ -269,15 +311,16 @@ Plataforma cripto com dashboard dinâmico, análise individual por ativo, filtro
 
 <td width="50%" valign="top">
 
-### 📱 Cook App - Mobile
-[![Repo](https://img.shields.io/badge/GitHub-Ver_Projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/cook-app)
+### 📝 Mind Group Blog — Full Stack
+[![Frontend](https://img.shields.io/badge/GitHub-Frontend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/mind-group-blog-frontend)
+[![Backend](https://img.shields.io/badge/GitHub-Backend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/mind-group-blog-backend)
 
-App mobile (Android/iOS) desenvolvido no curso **Rocketseat**, integrando **Supabase** como BaaS para gerenciamento de receitas com autenticação e banco de dados em nuvem.
+Entrega full stack em prazo de processo seletivo: frontend React + backend API REST com Node.js — autenticação, CRUD completo e boas práticas de segurança (SQL injection, sanitização).
 
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
 
@@ -300,14 +343,15 @@ Plataforma interativa para aprender e padronizar Git, com construtor de comandos
 
 <td width="50%" valign="top">
 
-### 🏥 UPA Clinic - Site Odontológico
-[![Repo](https://img.shields.io/badge/GitHub-Ver_Projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/upa-clinic)
+### 📱 Cook App - Mobile
+[![Repo](https://img.shields.io/badge/GitHub-Ver_Projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/cook-app)
 
-Site odontológico responsivo com slider de imagens, formulários de contato com **validação animada** e seções de serviços e profissionais, iniciado no Senac e aprimorado em 2024.
+App mobile (Android/iOS) com **React Native + Expo**, integrando **Supabase** como BaaS para gerenciamento de receitas com autenticação e banco de dados em nuvem.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 </td>
 
@@ -316,7 +360,7 @@ Site odontológico responsivo com slider de imagens, formulários de contato com
 ### 👁️ Detector de Polichinelos
 [![Repo](https://img.shields.io/badge/GitHub-Ver_Projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/APS-06)
 
-Projeto acadêmico de Visão Computacional que detecta e conta polichinelos em tempo real (webcam) ou via vídeo MP4, com suporte a até duas pessoas e testes automatizados com **Playwright**.
+Projeto acadêmico de Visão Computacional que detecta e conta polichinelos em tempo real (webcam) ou via vídeo MP4, com suporte a duas pessoas e testes automatizados com **Playwright**.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -355,8 +399,6 @@ Projeto acadêmico de Visão Computacional que detecta e conta polichinelos em t
 
 <!-- ============================================ -->
 <!-- SNAKE DE CONTRIBUIÇÕES (GitHub Actions)      -->
-<!-- Workflow: platane/snk@v3                     -->
-<!-- Saída gerada na branch "output" do repo      -->
 <!-- ============================================ -->
 
 ## 🐍 Snake Contribution
@@ -372,7 +414,7 @@ Projeto acadêmico de Visão Computacional que detecta e conta polichinelos em t
 </div>
 
 <!-- ============================================ -->
-<!-- FOOTER: CONTADOR DE VISITAS + WAVE           -->
+<!-- FOOTER                                       -->
 <!-- ============================================ -->
 
 <div align="center">
