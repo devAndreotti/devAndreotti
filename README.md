@@ -50,7 +50,7 @@ const ricardo = {
     tcc:         "RAG aplicado a notas Obsidian e documentos corporativos",
     localização: "Sorocaba, SP 🇧🇷",
     universidade: "UNIP",
-    estudando:   ["AI orchestration", "Ruby on Rails", "software architecture", "english"],
+    estudando:   ["Rust & Systems", "Game Dev & Shaders", "AI orchestration", "Software Architecture"],
     hobbies:     ["Coding", "Chess", "Linux"],
     email:       "devandreotti@gmail.com",
     status:      "Always building something cool"
@@ -85,42 +85,55 @@ const ricardo = {
 ## 🛠️ Stack Técnico
 
 <details>
-<summary><b>🎨 Front-End</b></summary>
+<summary><b>🎨 Front-End & Gráficos Web</b></summary>
 <br>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![WebGL2](https://img.shields.io/badge/WebGL2-990000?style=for-the-badge&logo=webgl&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>⚙️ Back-End & Databases</b></summary>
+<summary><b>⚙️ Back-End & Engenharia de Sistemas</b></summary>
 <br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 </details>
 
 <img align="right" alt="coding-gif" src="Computer.png" width="180px" />
 
 <details>
+<summary><b>🎮 Game Dev & Shaders</b></summary>
+<br>
+
+![Godot 4](https://img.shields.io/badge/Godot_4-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender_5-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![GLSL](https://img.shields.io/badge/GLSL_Shaders-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL_4.3-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+
+</details>
+
+<details>
 <summary><b>🤖 Automação & IA</b></summary>
 <br>
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Protocol-412991?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white)
@@ -145,8 +158,9 @@ const ricardo = {
 <br>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -168,13 +182,12 @@ const ricardo = {
 </details>
 
 <details>
-<summary><b>🔐 Cibersegurança & Dados</b></summary>
+<summary><b>🔐 Cibersegurança & Redes</b></summary>
 <br>
 
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 </details>
 
@@ -392,6 +405,15 @@ Agente inteligente que recebe ingredientes via webhook, orquestra fluxos no n8n 
 
 </tr>
 </table>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://devandreotti.com/blog">
+    <img src="https://img.shields.io/badge/✍️_Visite_o_Blog_Técnico-devandreotti.com%2Fblog-8E24AA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Blog Técnico" />
+  </a>
+  <p><sub>Artigos e devlogs sobre <b>WebGL2</b>, arquitetura no <b>Godot 4</b>, servidores <b>MCP em Rust</b> e orquestração de IA.</sub></p>
 </div>
 
 <br>
