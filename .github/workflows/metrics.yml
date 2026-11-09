@@ -25,3 +25,14 @@ jobs:
           plugin_isocalendar_duration: half-year
           output_action: commit
           committer_branch: metrics-render
+
+      - name: Followup
+        uses: lowlighter/metrics@latest
+        with:
+          filename: habits.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_followup: yes
+          plugin_followup_sections: user
+          output_action: commit
+          committer_branch: metrics-render
