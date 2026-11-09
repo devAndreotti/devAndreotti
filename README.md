@@ -272,94 +272,121 @@ const ricardo = {
 
 <td width="50%" valign="top">
 
-### 🧠 Chef AI - Agente Culinário
-[![Repo](https://img.shields.io/badge/GitHub-Ver_Projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/chef-ai)
+<a href="https://github.com/devAndreotti/crumple">
+  <img src="./assets/projects/crumple.webp" alt="Crumple Banner" width="100%" />
+</a>
 
-Agente culinário que recebe ingredientes via Webhook, processa com **Google Gemini Flash** orquestrado pelo **n8n** e retorna receitas personalizadas numa interface elegante.
+### 📄 Crumple · Biblioteca WebGL2
+[![NPM Version](https://img.shields.io/npm/v/@devandreotti/crumple?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/@devandreotti/crumple)
+[![Demo](https://img.shields.io/badge/Live-Demo-22C55E?style=for-the-badge&logo=githubpages&logoColor=white)](https://devandreotti.github.io/crumple/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/crumple)
+
+Biblioteca WebGL2 procedural e zero-dependências (~35 KB gzip) que simula papel amassado em 3D e desdobramento físico interativo com vincos, sombras dinâmicas, tintas e presets customizáveis (blueprint, punchcard, ledger).
+
+![WebGL2](https://img.shields.io/badge/WebGL2-990000?style=flat-square&logo=webgl&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM_Package-CB3837?style=flat-square&logo=npm&logoColor=white)
+
+</td>
+
+<td width="50%" valign="top">
+
+<a href="https://devandreotti.com/">
+  <img src="./assets/projects/memory-apartment.jpg" alt="Memory Apartment Gameplay" width="100%" />
+</a>
+
+### 🏢 Memory Apartment
+[![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-8E24AA?style=for-the-badge&logo=godotengine&logoColor=white)](https://devandreotti.com/)
+[![Site Oficial](https://img.shields.io/badge/DevLog-devandreotti.com-FF4500?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devandreotti.com/)
+
+Jogo 3D de terror psicológico retrô (anos 2000) com arquitetura impossível não-euclidiana, sistemas diegéticos (PC Windows XP, câmera flip, TV CRT) e portão de regressão automatizado no Godot 4.
+
+![Godot 4](https://img.shields.io/badge/Godot_4-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![Blender 5](https://img.shields.io/badge/Blender_5-E87D0D?style=flat-square&logo=blender&logoColor=white)
+![Shaders](https://img.shields.io/badge/GLSL_Shaders-5586A4?style=flat-square&logo=opengl&logoColor=white)
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+<a href="https://github.com/devAndreotti/quality-gate">
+  <img src="./assets/projects/quality-gate.png" alt="Quality Gate Banner" width="100%" />
+</a>
+
+### 🛡️ Quality Gate · CI/CD Determinístico
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/quality-gate)
+[![Zero Cost](https://img.shields.io/badge/Custo-Zero_Nuvem-22C55E?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/devAndreotti/quality-gate)
+
+Portão de qualidade determinístico com ratchet matemático upward-only (impede queda de cobertura de testes), auditoria multi-stack via AST, verificação estática de containers Docker e babysitter autônomo de PRs.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+</td>
+
+<td width="50%" valign="top">
+
+<a href="https://github.com/devAndreotti/ai-memory">
+  <img src="./assets/projects/ai-memory.png" alt="AI-Memory Architecture" width="100%" />
+</a>
+
+### 🧠 AI-Memory · Memória para Agentes
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/ai-memory)
+[![Rust](https://img.shields.io/badge/Rust-1.95+-DEA584?style=for-the-badge&logo=rust&logoColor=black)](https://github.com/devAndreotti/ai-memory)
+
+Servidor MCP de alto desempenho em Rust para persistência e recuperação de contexto durável entre agentes autônomos de código (Claude Code, Codex, Cursor), permitindo handoff sem perda arquitetural.
+
+![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black)
+![MCP](https://img.shields.io/badge/MCP-Protocol-412991?style=flat-square&logo=anthropic&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Busca-Híbrida_&_Vetorial-00B4D8?style=flat-square)
+![CLI](https://img.shields.io/badge/CLI-Multi_Harness-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+<a href="https://devandreotti.com/">
+  <img src="./assets/projects/frosted-motion-folio.png" alt="Frosted Motion Folio" width="100%" />
+</a>
+
+### ❄️ Frosted Motion Folio
+[![Live Site](https://img.shields.io/badge/Produção-devandreotti.com-FF4500?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devandreotti.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/frosted-motion-folio-v2)
+
+Portfólio interativo com estética de vidro fosco, Three.js sob demanda com hardware 3D interativo, blog bilíngue sincronizado, gerador de currículo ATS nativo em PDF e rotas na Cloudflare Edge.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+</td>
+
+<td width="50%" valign="top">
+
+<a href="https://github.com/devAndreotti/chef-ai">
+  <img src="./assets/projects/chef-ai.png" alt="Chef AI Interface" width="100%" />
+</a>
+
+### 👨‍🍳 Chef AI · Agente com IA & n8n
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/chef-ai)
+
+Agente inteligente que recebe ingredientes via webhook, orquestra fluxos autônomos no n8n processados pelo Google Gemini Flash e retorna receitas personalizadas numa interface moderna e reativa.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📊 Crypto Glass Hub
-[![Repo](https://img.shields.io/badge/GitHub-Ver_Projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/crypto-glass-hub)
-
-Plataforma cripto com dashboard dinâmico, análise individual por ativo, filtros, tema claro/escuro e elementos 3D interativos via **Spline**.
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white)
-![Spline](https://img.shields.io/badge/Spline-000000?style=flat-square&logo=spline&logoColor=white)
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-### 📝 Mind Group Blog — Full Stack
-[![Frontend](https://img.shields.io/badge/GitHub-Frontend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/mind-group-blog-frontend)
-[![Backend](https://img.shields.io/badge/GitHub-Backend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/mind-group-blog-backend)
-
-Entrega full stack em prazo de processo seletivo: frontend React + backend API REST com Node.js — autenticação, CRUD completo e boas práticas de segurança (SQL injection, sanitização).
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧙‍♂️ Git Wizard Commander
-[![Repo](https://img.shields.io/badge/GitHub-Ver_Projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/git-wizard-commander)
-
-Plataforma interativa para aprender e padronizar Git, com construtor de comandos passo a passo, gerador de commits semânticos, quizzes e rastreamento de progresso.
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white)
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-### 📱 Cook App - Mobile
-[![Repo](https://img.shields.io/badge/GitHub-Ver_Projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/cook-app)
-
-App mobile (Android/iOS) com **React Native + Expo**, integrando **Supabase** como BaaS para gerenciamento de receitas com autenticação e banco de dados em nuvem.
-
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 👁️ Detector de Polichinelos
-[![Repo](https://img.shields.io/badge/GitHub-Ver_Projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/APS-06)
-
-Projeto acadêmico de Visão Computacional que detecta e conta polichinelos em tempo real (webcam) ou via vídeo MP4, com suporte a duas pessoas e testes automatizados com **Playwright**.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_Flash-8E75B2?style=flat-square&logo=google&logoColor=white)
 
 </td>
 
