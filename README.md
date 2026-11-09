@@ -299,6 +299,7 @@ Biblioteca WebGL2 procedural e zero-dependências (~35 KB gzip) que simula papel
 ### 🏢 Memory Apartment
 [![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-8E24AA?style=for-the-badge&logo=godotengine&logoColor=white)](https://devandreotti.com/)
 [![Site Oficial](https://img.shields.io/badge/DevLog-devandreotti.com-FF4500?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devandreotti.com/)
+[![Game](https://img.shields.io/badge/Godot_4-Terror_Psicológico-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)](https://devandreotti.com/)
 
 Jogo 3D de terror psicológico retrô (anos 2000) com arquitetura impossível não-euclidiana, sistemas diegéticos (PC Windows XP, câmera flip, TV CRT) e portão de regressão automatizado no Godot 4.
 
@@ -339,9 +340,9 @@ Portão de qualidade determinístico com ratchet matemático upward-only (impede
 
 ### 🧠 AI-Memory · Memória para Agentes
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/ai-memory)
-[![Rust](https://img.shields.io/badge/Rust-1.95+-DEA584?style=for-the-badge&logo=rust&logoColor=black)](https://github.com/devAndreotti/ai-memory)
+[![Fork](https://img.shields.io/badge/Fork-akitaonrails%2Fai--memory-DEA584?style=for-the-badge&logo=rust&logoColor=black)](https://github.com/akitaonrails/ai-memory)
 
-Servidor MCP de alto desempenho em Rust para persistência e recuperação de contexto durável entre agentes autônomos de código (Claude Code, Codex, Cursor), permitindo handoff sem perda arquitetural.
+Fork do ai-memory de Fabio Akita (akitaonrails). Servidor MCP de alto desempenho em Rust para persistência e recuperação de contexto durável entre agentes autônomos de código, viabilizando handoffs sem perda arquitetural.
 
 ![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black)
 ![MCP](https://img.shields.io/badge/MCP-Protocol-412991?style=flat-square&logo=anthropic&logoColor=white)
@@ -380,6 +381,7 @@ Portfólio interativo com estética de vidro fosco, Three.js sob demanda com har
 
 ### 👨‍🍳 Chef AI · Agente com IA & n8n
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/chef-ai)
+[![Orquestração](https://img.shields.io/badge/Orquestração-n8n_+_Gemini-8E75B2?style=for-the-badge&logo=n8n&logoColor=white)](https://github.com/devAndreotti/chef-ai)
 
 Agente inteligente que recebe ingredientes via webhook, orquestra fluxos autônomos no n8n processados pelo Google Gemini Flash e retorna receitas personalizadas numa interface moderna e reativa.
 
