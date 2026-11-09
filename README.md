@@ -296,8 +296,8 @@ Biblioteca WebGL2 procedural e zero-dependências (~35 KB gzip) que simula papel
 </a>
 
 ### 🏢 Memory Apartment
-[![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-8E24AA?style=for-the-badge&logo=godotengine&logoColor=white)](https://devandreotti.com/)
-[![Site Oficial](https://img.shields.io/badge/Site-devandreotti.com-FF4500?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devandreotti.com/)
+[![Status](https://img.shields.io/badge/Status-In--Dev-8E24AA?style=for-the-badge&logo=godotengine&logoColor=white)](https://devandreotti.com/)
+[![Site](https://img.shields.io/badge/Site-devandreotti.com-FF4500?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devandreotti.com/)
 
 Jogo 3D de terror psicológico retrô (anos 2000) com arquitetura impossível não-euclidiana, sistemas diegéticos (PC Windows XP, câmera flip, TV CRT) e portão de regressão automatizado no Godot 4.
 
@@ -338,7 +338,7 @@ Portão de qualidade determinístico com ratchet matemático upward-only (impede
 
 ### 🧠 AI-Memory · Memória para Agentes
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/ai-memory)
-[![Fork](https://img.shields.io/badge/Fork-akitaonrails%2Fai--memory-DEA584?style=for-the-badge&logo=rust&logoColor=black)](https://github.com/akitaonrails/ai-memory)
+[![Fork](https://img.shields.io/badge/Fork-Akita_ai--memory-DEA584?style=for-the-badge&logo=rust&logoColor=black)](https://github.com/akitaonrails/ai-memory)
 
 Fork do ai-memory de Fabio Akita (akitaonrails). Servidor MCP de alto desempenho em Rust para persistência e recuperação de contexto durável entre agentes autônomos de código, viabilizando handoffs sem perda arquitetural.
 
