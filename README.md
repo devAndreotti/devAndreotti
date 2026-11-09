@@ -321,7 +321,7 @@ Jogo 3D de terror psicológico retrô (anos 2000) com arquitetura impossível n�
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/quality-gate)
 [![Zero Cost](https://img.shields.io/badge/Custo-Zero_Nuvem-22C55E?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/devAndreotti/quality-gate)
 
-Portão de qualidade determinístico com ratchet matemático upward-only (impede queda de cobertura de testes), auditoria multi-stack via AST, verificação estática de containers Docker e babysitter autônomo de PRs.
+Portão determinístico com ratchet matemático upward-only (impede queda de cobertura de testes), auditoria multi-stack via AST, verificação de Docker e babysitter autônomo de PRs.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
