@@ -279,7 +279,6 @@ const ricardo = {
 ### 📄 Crumple · Biblioteca WebGL2
 [![NPM Version](https://img.shields.io/npm/v/@devandreotti/crumple?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/@devandreotti/crumple)
 [![Demo](https://img.shields.io/badge/Live-Demo-22C55E?style=for-the-badge&logo=githubpages&logoColor=white)](https://devandreotti.github.io/crumple/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/crumple)
 
 Biblioteca WebGL2 procedural e zero-dependências (~35 KB gzip) que simula papel amassado em 3D e desdobramento físico interativo com vincos, sombras dinâmicas, tintas e presets customizáveis (blueprint, punchcard, ledger).
 
@@ -298,8 +297,7 @@ Biblioteca WebGL2 procedural e zero-dependências (~35 KB gzip) que simula papel
 
 ### 🏢 Memory Apartment
 [![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-8E24AA?style=for-the-badge&logo=godotengine&logoColor=white)](https://devandreotti.com/)
-[![Site Oficial](https://img.shields.io/badge/DevLog-devandreotti.com-FF4500?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devandreotti.com/)
-[![Game](https://img.shields.io/badge/Godot_4-Terror_Psicológico-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)](https://devandreotti.com/)
+[![Site Oficial](https://img.shields.io/badge/Site-devandreotti.com-FF4500?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devandreotti.com/)
 
 Jogo 3D de terror psicológico retrô (anos 2000) com arquitetura impossível não-euclidiana, sistemas diegéticos (PC Windows XP, câmera flip, TV CRT) e portão de regressão automatizado no Godot 4.
 
@@ -346,7 +344,7 @@ Fork do ai-memory de Fabio Akita (akitaonrails). Servidor MCP de alto desempenho
 
 ![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black)
 ![MCP](https://img.shields.io/badge/MCP-Protocol-412991?style=flat-square&logo=anthropic&logoColor=white)
-![Vector Search](https://img.shields.io/badge/Busca-Híbrida_&_Vetorial-00B4D8?style=flat-square)
+![Busca](https://img.shields.io/badge/Busca-Híbrida-00B4D8?style=flat-square)
 ![CLI](https://img.shields.io/badge/CLI-Multi_Harness-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 </td>
