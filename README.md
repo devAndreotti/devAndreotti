@@ -343,9 +343,9 @@ Portão de qualidade determinístico com ratchet matemático upward-only (impede
 Fork do ai-memory de Fabio Akita (akitaonrails). Servidor MCP de alto desempenho em Rust para persistência e recuperação de contexto durável entre agentes autônomos de código, viabilizando handoffs sem perda arquitetural.
 
 ![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black)
-![MCP](https://img.shields.io/badge/MCP-Protocol-412991?style=flat-square&logo=anthropic&logoColor=white)
-![Busca](https://img.shields.io/badge/Busca-Híbrida-00B4D8?style=flat-square)
-![CLI](https://img.shields.io/badge/CLI-Multi_Harness-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-412991?style=flat-square&logo=anthropic&logoColor=white)
+![Busca](https://img.shields.io/badge/Híbrida-00B4D8?style=flat-square)
+![CLI](https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 </td>
 
@@ -381,7 +381,7 @@ Portfólio interativo com estética de vidro fosco, Three.js sob demanda com har
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/chef-ai)
 [![Fluxo](https://img.shields.io/badge/Fluxo-n8n_+_Gemini-8E75B2?style=for-the-badge&logo=n8n&logoColor=white)](https://github.com/devAndreotti/chef-ai)
 
-Agente inteligente que recebe ingredientes via webhook, orquestra fluxos autônomos no n8n processados pelo Google Gemini Flash e retorna receitas personalizadas numa interface moderna e reativa.
+Agente inteligente que recebe ingredientes via webhook, orquestra fluxos no n8n com Google Gemini Flash e retorna receitas personalizadas numa interface moderna e reativa.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
