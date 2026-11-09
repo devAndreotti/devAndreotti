@@ -60,8 +60,8 @@ const ricardo = {
 <br clear="right"/>
 
 <p align="center">
-  <img src="https://github.com/devAndreotti/metrics/blob/master/calendar-iso.svg" width="45%" />
-  <img src="https://github.com/devAndreotti/metrics/blob/master/habits.svg" width="54%" />
+  <img src="https://raw.githubusercontent.com/devAndreotti/devAndreotti/metrics-render/calendar-iso.svg" width="45%" alt="Isometric Contributions Calendar" />
+  <img src="https://raw.githubusercontent.com/devAndreotti/devAndreotti/metrics-render/habits.svg" width="54%" alt="GitHub Activity Status" />
 </p>
 
 <br>
@@ -190,13 +190,7 @@ const ricardo = {
 
 <div align="center">
 <a href="https://github.com/devAndreotti">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devAndreotti&theme=tokyo-night&hide_border=true&area=true&custom_title=📈%20Contribution%20Graph" width="100%" />
-</a>
-</div>
-
-<div align="center">
-<a href="https://github.com/devAndreotti">
-  <img src="https://github-trophies.vercel.app/?username=devAndreotti&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
+  <img src="https://github-trophies.vercel.app/?username=devAndreotti&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="GitHub Trophies" />
 </a>
 </div>
 
@@ -382,8 +376,8 @@ Projeto acadêmico de Visão Computacional que detecta e conta polichinelos em t
 ## 📈 GitHub Stats & Linguagens
 
 <a href="https://github.com/devAndreotti">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devAndreotti&theme=midnight_purple" alt="GitHub Stats"/>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devAndreotti&theme=midnight_purple" alt="Repos per Language"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devAndreotti&theme=midnight_purple" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devAndreotti&theme=midnight_purple" alt="Top Languages by Commit"/>
 </a>
 
 <br>
@@ -392,7 +386,7 @@ Projeto acadêmico de Visão Computacional que detecta e conta polichinelos em t
 
 <a href="https://github.com/devAndreotti">
   <img height="180em" src="https://github-readme-streak-stats-phi-khaki.vercel.app/?user=devAndreotti&theme=midnight-purple&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devAndreotti&theme=midnight_purple&utcOffset=-3" alt="Productive Time"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devAndreotti&theme=midnight_purple&utcOffset=-3" alt="Productive Time"/>
 </a>
 
 <br>
