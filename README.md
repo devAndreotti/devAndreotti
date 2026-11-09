@@ -280,7 +280,7 @@ const ricardo = {
 [![NPM Version](https://img.shields.io/npm/v/@devandreotti/crumple?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/@devandreotti/crumple)
 [![Demo](https://img.shields.io/badge/Live-Demo-22C55E?style=for-the-badge&logo=githubpages&logoColor=white)](https://devandreotti.github.io/crumple/)
 
-Biblioteca WebGL2 procedural e zero-dependências (~35 KB gzip) que simula papel amassado em 3D e desdobramento físico interativo com vincos, sombras dinâmicas, tintas e presets customizáveis (blueprint, punchcard, ledger).
+Biblioteca WebGL2 procedural e zero-dependências (~35 KB gzip) para simulação 3D de papel amassado e desdobramento físico interativo com vincos, sombras dinâmicas e presets customizáveis.
 
 ![WebGL2](https://img.shields.io/badge/WebGL2-990000?style=flat-square&logo=webgl&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
