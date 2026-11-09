@@ -340,7 +340,7 @@ Portão de qualidade determinístico com ratchet matemático upward-only (impede
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devAndreotti/ai-memory)
 [![Fork](https://img.shields.io/badge/Fork-Akita_ai--memory-DEA584?style=for-the-badge&logo=rust&logoColor=black)](https://github.com/akitaonrails/ai-memory)
 
-Fork do ai-memory de Fabio Akita (akitaonrails). Servidor MCP de alto desempenho em Rust para persistência e recuperação de contexto durável entre agentes autônomos de código, viabilizando handoffs sem perda arquitetural.
+Fork do ai-memory do Fabio Akita (akitaonrails). Servidor MCP em Rust para persistência de contexto entre agentes autônomos de código, viabilizando handoffs sem perda arquitetural.
 
 ![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black)
 ![MCP](https://img.shields.io/badge/MCP-412991?style=flat-square&logo=anthropic&logoColor=white)
