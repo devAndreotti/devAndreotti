@@ -138,7 +138,7 @@
     </g>
 
     <!-- Name / Title -->
-    <text x="42" y="90" fill="url(#title-grad)" font-size="28" class="font-sans title">Ricardo A. Gonçalves</text>
+    <text x="42" y="90" fill="url(#title-grad)" font-size="28" class="font-sans title">Ricardo Andreotti</text>
 
     <!-- Core Specialization / Subtitle -->
     <g transform="translate(42, 116)">
