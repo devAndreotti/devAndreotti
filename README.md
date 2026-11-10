@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&duration=3500&color=B044FF&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%91%8B+Ol%C3%A1%2C+sou+Ricardo+Andreotti!;Full+Stack+Developer+%F0%9F%9A%80;IA+%26+Automa%C3%A7%C3%A3o+%F0%9F%A4%96;Ciber+Seguran%C3%A7a+%F0%9F%94%90;Blockchain+%26+Web3+%E2%9B%93;Apaixonado+por+Open+Source+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&duration=3500&color=B044FF&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%91%8B+Ol%C3%A1%2C+sou+Ricardo+Andreotti!;Full+Stack+Developer+%F0%9F%9A%80;IA+%26+Automa%C3%A7%C3%A3o+%F0%9F%A4%96;Ciber+Seguran%C3%A7a+%F0%9F%94%90;WebGL+%26+Computa%C3%A7%C3%A3o+Gr%C3%A1fica+%F0%9F%8E%A8;Rust+%26+Sistemas+%E2%9A%99%EF%B8%8F;Apaixonado+por+Open+Source+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 <img src="./purple.svg" alt="Purple Wave" width="100%" />
 
@@ -15,7 +15,7 @@
 <!-- ============================================ -->
 
 <div align="center">
-  <img src="./HelloWorld.png" alt="Hello World!" />
+  <img src="./assets/banner.svg" alt="Ricardo Andreotti - Full Stack, AI & Systems" width="100%" />
 </div>
 
 <br>
@@ -45,7 +45,7 @@
 
 ```javascript
 const ricardo = {
-    foco:        ["Full Stack", "IA & Automação", "Cybersecurity", "Blockchain"],
+    foco:        ["Full Stack", "IA & Automação", "WebGL & Shaders", "Rust & Sistemas"],
     formação:    "Ciência da Computação (7º semestre)",
     tcc:         "RAG aplicado a notas Obsidian e documentos corporativos",
     localização: "Sorocaba, SP 🇧🇷",
@@ -263,10 +263,11 @@ const ricardo = {
 </details>
 
 <details>
-<summary><b>🛤️ Em Andamento</b></summary>
+<summary><b>🛤️ Em Andamento & Formação</b></summary>
 <br>
 
-![Rails](https://img.shields.io/badge/Ruby_on_Rails_Bootcamp-🔄_Em_Andamento-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust_&_Sistemas-🔄_Em_Estudo-DEA584?style=for-the-badge&logo=rust&logoColor=black)
+![UNIP](https://img.shields.io/badge/Ciência_da_Computação-7º_Semestre_(UNIP)-0052CC?style=for-the-badge&logo=googleclassroom&logoColor=white)
 ![EF SET](https://img.shields.io/badge/EF_SET_English_C2_Proficient-✅_71%2F100-0066CC?style=for-the-badge&logo=e&logoColor=white)
 
 </details>
