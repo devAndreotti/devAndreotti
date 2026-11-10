@@ -1,0 +1,226 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 220" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradients & Glows -->
+    <radialGradient id="bg-grad" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#0c0e17" />
+      <stop offset="100%" stop-color="#050608" />
+    </radialGradient>
+
+    <!-- Neon Ambient Orbs -->
+    <radialGradient id="orb-cyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0.3" />
+      <stop offset="60%" stop-color="#4facfe" stop-opacity="0.1" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="orb-purple" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#b827fc" stop-opacity="0.28" />
+      <stop offset="60%" stop-color="#7928ca" stop-opacity="0.08" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="orb-emerald" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.22" />
+      <stop offset="70%" stop-color="#059669" stop-opacity="0.04" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Glassmorphism Surface Gradients -->
+    <linearGradient id="glass-surface" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.06" />
+      <stop offset="45%" stop-color="#ffffff" stop-opacity="0.015" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.04" />
+    </linearGradient>
+
+    <linearGradient id="glass-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.3" />
+      <stop offset="25%" stop-color="#00f2fe" stop-opacity="0.25" />
+      <stop offset="70%" stop-color="#ffffff" stop-opacity="0.05" />
+      <stop offset="100%" stop-color="#7928ca" stop-opacity="0.2" />
+    </linearGradient>
+
+    <!-- Tag Glass Surface -->
+    <linearGradient id="tag-surface" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.06" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.015" />
+    </linearGradient>
+    <linearGradient id="tag-border" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.05" />
+    </linearGradient>
+
+    <!-- Text Highlight Gradient -->
+    <linearGradient id="title-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="50%" stop-color="#f8fafc" />
+      <stop offset="100%" stop-color="#cbd5e1" />
+    </linearGradient>
+
+    <!-- 3D Polyhedron Gradients -->
+    <linearGradient id="cube-top" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#4facfe" stop-opacity="0.08" />
+    </linearGradient>
+    <linearGradient id="cube-left" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7928ca" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#4facfe" stop-opacity="0.05" />
+    </linearGradient>
+    <linearGradient id="cube-right" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#b827fc" stop-opacity="0.35" />
+    </linearGradient>
+
+    <!-- Subtle Tech Dot Pattern -->
+    <pattern id="dot-grid" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#ffffff" fill-opacity="0.035" />
+    </pattern>
+
+    <!-- Blur Filter -->
+    <filter id="blur-sm" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" />
+    </filter>
+  </defs>
+
+  <style>
+    .font-sans {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', Helvetica, Arial, sans-serif;
+    }
+    .font-mono {
+      font-family: 'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace;
+    }
+    .title {
+      font-weight: 700;
+      letter-spacing: -0.6px;
+    }
+    .subtitle {
+      font-weight: 400;
+      letter-spacing: 0.1px;
+    }
+    .tag-text {
+      font-weight: 500;
+      letter-spacing: 0.3px;
+    }
+  </style>
+
+  <!-- Canvas Background -->
+  <rect width="920" height="220" rx="16" fill="url(#bg-grad)" />
+
+  <!-- Ambient Glow Behind Glass -->
+  <circle cx="160" cy="50" r="180" fill="url(#orb-cyan)" filter="url(#blur-sm)" />
+  <circle cx="780" cy="110" r="190" fill="url(#orb-purple)" filter="url(#blur-sm)" />
+  <circle cx="480" cy="170" r="150" fill="url(#orb-emerald)" filter="url(#blur-sm)" />
+
+  <!-- Subtle Micro Grid -->
+  <rect width="920" height="220" rx="16" fill="url(#dot-grid)" />
+
+  <!-- Main Glassmorphic Panel -->
+  <g transform="translate(20, 20)">
+    <!-- Base Glass Body -->
+    <rect width="880" height="180" rx="16" fill="url(#glass-surface)" stroke="url(#glass-border)" stroke-width="1.2" />
+
+    <!-- Top Highlight Line (Specular Rim Light) -->
+    <path d="M 38 1.2 L 842 1.2" stroke="#ffffff" stroke-opacity="0.35" stroke-width="1.2" stroke-linecap="round" />
+
+    <!-- Monogram RA Badge & Status -->
+    <g transform="translate(42, 26)">
+      <!-- RA Monogram box matching portfolio brand -->
+      <rect width="28" height="28" rx="8" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.18)" stroke-width="1" />
+      <text x="14" y="19" fill="#c084fc" font-size="12" class="font-mono" font-weight="700" text-anchor="middle">RA</text>
+
+      <!-- Status Badge: Available for new projects -->
+      <g transform="translate(38, 3)">
+        <rect width="180" height="22" rx="11" fill="#10b981" fill-opacity="0.12" stroke="#10b981" stroke-opacity="0.3" stroke-width="1" />
+        <circle cx="12" cy="11" r="3.5" fill="#10b981">
+          <animate attributeName="opacity" values="1;0.4;1" dur="2.4s" repeatCount="indefinite" />
+        </circle>
+        <text x="23" y="14.5" fill="#34d399" font-size="10" class="font-mono" font-weight="600">Available for new projects</text>
+      </g>
+    </g>
+
+    <!-- Name / Title -->
+    <text x="42" y="90" fill="url(#title-grad)" font-size="28" class="font-sans title">Ricardo A. Gonçalves</text>
+
+    <!-- Core Specialization / Subtitle -->
+    <g transform="translate(42, 116)">
+      <text x="0" y="0" fill="#94a3b8" font-size="13" class="font-sans subtitle">
+        <tspan fill="#38bdf8" font-weight="500">Full Stack Developer</tspan>
+        <tspan fill="#64748b"> · </tspan>
+        <tspan fill="#c084fc" font-weight="500">Applied AI</tspan>
+        <tspan fill="#64748b"> · </tspan>
+        <tspan fill="#34d399" font-weight="500">WebGL &amp; Systems</tspan>
+      </text>
+    </g>
+
+    <!-- Tags Row -->
+    <g transform="translate(42, 134)">
+      <!-- Tag 1: React / Next.js -->
+      <g transform="translate(0, 0)">
+        <rect width="112" height="24" rx="12" fill="url(#tag-surface)" stroke="url(#tag-border)" stroke-width="1" />
+        <circle cx="12" cy="12" r="2.5" fill="#38bdf8" />
+        <text x="21" y="15.5" fill="#e2e8f0" font-size="11" class="font-sans tag-text">React / Next.js</text>
+      </g>
+
+      <!-- Tag 2: Rust / Systems -->
+      <g transform="translate(120, 0)">
+        <rect width="110" height="24" rx="12" fill="url(#tag-surface)" stroke="url(#tag-border)" stroke-width="1" />
+        <circle cx="12" cy="12" r="2.5" fill="#dea584" />
+        <text x="21" y="15.5" fill="#e2e8f0" font-size="11" class="font-sans tag-text">Rust / Systems</text>
+      </g>
+
+      <!-- Tag 3: WebGL2 / Godot 4 -->
+      <g transform="translate(238, 0)">
+        <rect width="128" height="24" rx="12" fill="url(#tag-surface)" stroke="url(#tag-border)" stroke-width="1" />
+        <circle cx="12" cy="12" r="2.5" fill="#c084fc" />
+        <text x="21" y="15.5" fill="#e2e8f0" font-size="11" class="font-sans tag-text">WebGL2 / Godot 4</text>
+      </g>
+
+      <!-- Tag 4: Deterministic CI/CD -->
+      <g transform="translate(374, 0)">
+        <rect width="144" height="24" rx="12" fill="url(#tag-surface)" stroke="url(#tag-border)" stroke-width="1" />
+        <circle cx="12" cy="12" r="2.5" fill="#10b981" />
+        <text x="21" y="15.5" fill="#e2e8f0" font-size="11" class="font-sans tag-text">Deterministic CI/CD</text>
+      </g>
+    </g>
+
+    <!-- Glass 3D WebGL / Systems Polyhedron Graphic (Right Side) -->
+    <g transform="translate(740, 90)">
+      <!-- Orbital Glowing Rings -->
+      <ellipse cx="0" cy="0" rx="68" ry="24" fill="none" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.28" transform="rotate(-26)" />
+      <ellipse cx="0" cy="0" rx="64" ry="20" fill="none" stroke="#c084fc" stroke-width="1" stroke-opacity="0.25" stroke-dasharray="4 6" transform="rotate(38)" />
+
+      <!-- Isometric 3D Glass Crystal / Polyhedron -->
+      <!-- Top Face -->
+      <polygon points="0,-42 38,-20 0,4 -38,-20" fill="url(#cube-top)" stroke="#ffffff" stroke-opacity="0.4" stroke-width="1" />
+
+      <!-- Left Face -->
+      <polygon points="-38,-20 0,4 0,46 -38,22" fill="url(#cube-left)" stroke="#ffffff" stroke-opacity="0.2" stroke-width="1" />
+
+      <!-- Right Face -->
+      <polygon points="0,4 38,-20 38,22 0,46" fill="url(#cube-right)" stroke="#00f2fe" stroke-opacity="0.35" stroke-width="1" />
+
+      <!-- Floating Inner Core -->
+      <circle cx="0" cy="4" r="5" fill="#ffffff" fill-opacity="0.9">
+        <animate attributeName="r" values="4.5;6.5;4.5" dur="3s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="0" cy="4" r="14" fill="#00f2fe" fill-opacity="0.2" />
+
+      <!-- Neural / Vertex Data Nodes -->
+      <line x1="0" y1="-42" x2="0" y2="4" stroke="#ffffff" stroke-opacity="0.25" stroke-dasharray="2 3" />
+      <line x1="-38" y1="-20" x2="38" y2="22" stroke="#38bdf8" stroke-opacity="0.3" stroke-width="0.8" />
+      <line x1="38" y1="-20" x2="-38" y2="22" stroke="#c084fc" stroke-opacity="0.3" stroke-width="0.8" />
+
+      <circle cx="0" cy="-42" r="2.5" fill="#38bdf8" />
+      <circle cx="38" cy="-20" r="2.5" fill="#00f2fe" />
+      <circle cx="-38" cy="-20" r="2.5" fill="#c084fc" />
+      <circle cx="38" cy="22" r="2" fill="#a855f7" />
+      <circle cx="-38" cy="22" r="2" fill="#38bdf8" />
+      <circle cx="0" cy="46" r="2.5" fill="#10b981" />
+
+      <!-- Floating System Particles -->
+      <circle cx="-52" cy="-34" r="1.5" fill="#38bdf8" fill-opacity="0.6" />
+      <circle cx="48" cy="-40" r="1.5" fill="#c084fc" fill-opacity="0.7" />
+      <circle cx="56" cy="30" r="1.2" fill="#34d399" fill-opacity="0.5" />
+      <circle cx="-45" cy="42" r="1.2" fill="#ffffff" fill-opacity="0.4" />
+    </g>
+  </g>
+</svg>
