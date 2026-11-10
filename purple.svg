@@ -1,62 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 920 100" width="100%" height="100" preserveAspectRatio="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 100" width="100%" height="100" fill="none">
   <defs>
-    <!-- Gradiente 1: Violeta profundo para índigo -->
-    <linearGradient id="waveVioletDeep" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.5" />
-      <stop offset="50%" stop-color="#b827fc" stop-opacity="0.35" />
-      <stop offset="100%" stop-color="#00f2fe" stop-opacity="0.4" />
+    <!-- Gradientes Translúcidos combinando com o Banner Glassmorphism -->
+    <linearGradient id="waveDeepViolet" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.38" />
+      <stop offset="50%" stop-color="#6366f1" stop-opacity="0.22" />
+      <stop offset="100%" stop-color="#00f2fe" stop-opacity="0.28" />
     </linearGradient>
 
-    <!-- Gradiente 2: Ciano vibrante para violeta neon -->
-    <linearGradient id="waveCyanNeon" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="waveNeonPurple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#b827fc" stop-opacity="0.5" />
+      <stop offset="45%" stop-color="#7c3aed" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#00f2fe" stop-opacity="0.35" />
+    </linearGradient>
+
+    <linearGradient id="waveElectricCyan" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#00f2fe" stop-opacity="0.55" />
       <stop offset="40%" stop-color="#38bdf8" stop-opacity="0.45" />
-      <stop offset="75%" stop-color="#7c3aed" stop-opacity="0.6" />
-      <stop offset="100%" stop-color="#b827fc" stop-opacity="0.5" />
+      <stop offset="80%" stop-color="#b827fc" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0.55" />
     </linearGradient>
 
-    <!-- Gradiente 3: Realce frontal com fusão escura na base -->
-    <linearGradient id="waveFront" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.75" />
-      <stop offset="35%" stop-color="#00f2fe" stop-opacity="0.65" />
-      <stop offset="70%" stop-color="#b827fc" stop-opacity="0.7" />
-      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0.8" />
-    </linearGradient>
-
-    <!-- Linha de luz (Specular Glass Rim) -->
     <linearGradient id="rimGlow" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#00f2fe" stop-opacity="0.9" />
-      <stop offset="30%" stop-color="#38bdf8" stop-opacity="0.75" />
-      <stop offset="65%" stop-color="#b827fc" stop-opacity="0.9" />
+      <stop offset="35%" stop-color="#38bdf8" stop-opacity="0.75" />
+      <stop offset="70%" stop-color="#b827fc" stop-opacity="0.85" />
       <stop offset="100%" stop-color="#7c3aed" stop-opacity="0.8" />
     </linearGradient>
 
-    <filter id="waveGlow" x="-5%" y="-20%" width="110%" height="150%">
-      <feGaussianBlur stdDeviation="3" result="blur" />
+    <filter id="glow" x="-5%" y="-30%" width="110%" height="160%">
+      <feGaussianBlur stdDeviation="2.5" result="blur" />
       <feComposite in="SourceGraphic" in2="blur" operator="over" />
     </filter>
   </defs>
 
-  <g transform="translate(460, 50) scale(1, -1) translate(-460, -50)">
-    <!-- Camada 1: Onda de Fundo (Pulsante e profunda) -->
-    <path fill="url(#waveVioletDeep)">
+  <g>
+    <!-- Camada 1: Onda Profunda Violeta (base inferior) -->
+    <path fill="url(#waveDeepViolet)">
       <animate
         attributeName="d"
-        dur="16s"
+        dur="18s"
         repeatCount="indefinite"
         calcMode="spline"
         keyTimes="0;0.333;0.667;1"
         keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
         begin="0s"
-        values="M 0 0 L 0 35 Q 230 75 460 45 T 920 65 L 920 0 Z;
-                M 0 0 L 0 60 Q 230 75 460 55 T 920 40 L 920 0 Z;
-                M 0 0 L 0 75 Q 230 45 460 75 T 920 45 L 920 0 Z;
-                M 0 0 L 0 35 Q 230 75 460 45 T 920 65 L 920 0 Z"
+        values="M 0 100 L 0 55 Q 230 20 460 50 T 920 25 L 920 100 Z;
+                M 0 100 L 0 35 Q 230 25 460 40 T 920 55 L 920 100 Z;
+                M 0 100 L 0 25 Q 230 50 460 25 T 920 50 L 920 100 Z;
+                M 0 100 L 0 55 Q 230 20 460 50 T 920 25 L 920 100 Z"
       />
     </path>
 
-    <!-- Camada 2: Onda Intermediária (Deslocamento de fase) -->
-    <path fill="url(#waveCyanNeon)">
+    <!-- Camada 2: Onda Neon Purple (fase deslocada) -->
+    <path fill="url(#waveNeonPurple)">
       <animate
         attributeName="d"
         dur="14s"
@@ -65,44 +61,44 @@
         keyTimes="0;0.333;0.667;1"
         keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
         begin="-7s"
-        values="M 0 0 L 0 50 Q 230 90 460 60 T 920 70 L 920 0 Z;
-                M 0 0 L 0 65 Q 230 35 460 35 T 920 55 L 920 0 Z;
-                M 0 0 L 0 60 Q 230 40 460 65 T 920 75 L 920 0 Z;
-                M 0 0 L 0 50 Q 230 90 460 60 T 920 70 L 920 0 Z"
+        values="M 0 100 L 0 45 Q 230 10 460 40 T 920 30 L 920 100 Z;
+                M 0 100 L 0 30 Q 230 65 460 65 T 920 45 L 920 100 Z;
+                M 0 100 L 0 35 Q 230 60 460 35 T 920 20 L 920 100 Z;
+                M 0 100 L 0 45 Q 230 10 460 40 T 920 30 L 920 100 Z"
       />
     </path>
 
-    <!-- Camada 3: Onda Frontal com Linha de Crista Iluminada -->
-    <path fill="url(#waveFront)">
+    <!-- Camada 3: Onda Frontal Ciano Elétrica -->
+    <path fill="url(#waveElectricCyan)">
       <animate
         attributeName="d"
-        dur="11s"
+        dur="10s"
         repeatCount="indefinite"
         calcMode="spline"
         keyTimes="0;0.333;0.667;1"
         keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
         begin="-4s"
-        values="M 0 0 L 0 60 Q 230 30 460 70 T 920 50 L 920 0 Z;
-                M 0 0 L 0 45 Q 230 80 460 50 T 920 65 L 920 0 Z;
-                M 0 0 L 0 70 Q 230 55 460 40 T 920 60 L 920 0 Z;
-                M 0 0 L 0 60 Q 230 30 460 70 T 920 50 L 920 0 Z"
+        values="M 0 100 L 0 40 Q 230 70 460 30 T 920 50 L 920 100 Z;
+                M 0 100 L 0 55 Q 230 20 460 50 T 920 35 L 920 100 Z;
+                M 0 100 L 0 30 Q 230 45 460 60 T 920 40 L 920 100 Z;
+                M 0 100 L 0 40 Q 230 70 460 30 T 920 50 L 920 100 Z"
       />
     </path>
 
-    <!-- Linha de Brilho Glassmorphism na crista frontal -->
-    <path fill="none" stroke="url(#rimGlow)" stroke-width="2" stroke-linecap="round" filter="url(#waveGlow)">
+    <!-- Linha de Crista de Luz Glassmorphism -->
+    <path fill="none" stroke="url(#rimGlow)" stroke-width="1.8" stroke-linecap="round" filter="url(#glow)">
       <animate
         attributeName="d"
-        dur="11s"
+        dur="10s"
         repeatCount="indefinite"
         calcMode="spline"
         keyTimes="0;0.333;0.667;1"
         keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
         begin="-4s"
-        values="M 0 60 Q 230 30 460 70 T 920 50;
-                M 0 45 Q 230 80 460 50 T 920 65;
-                M 0 70 Q 230 55 460 40 T 920 60;
-                M 0 60 Q 230 30 460 70 T 920 50"
+        values="M 0 40 Q 230 70 460 30 T 920 50;
+                M 0 55 Q 230 20 460 50 T 920 35;
+                M 0 30 Q 230 45 460 60 T 920 40;
+                M 0 40 Q 230 70 460 30 T 920 50"
       />
     </path>
   </g>

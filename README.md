@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&duration=3200&color=B044FF&center=true&vCenter=true&multiline=false&width=860&lines=%F0%9F%91%8B+Ol%C3%A1%2C+sou+Ricardo+Andreotti!;Full+Stack+Developer+%F0%9F%9A%80;IA+%26+Automa%C3%A7%C3%A3o+%F0%9F%A4%96;WebGL+%26+Computa%C3%A7%C3%A3o+Gr%C3%A1fica+%F0%9F%8E%A8;Rust+%26+Sistemas+%E2%9A%99%EF%B8%8F;Apaixonado+por+Open+Source+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&duration=3200&color=B044FF&center=true&vCenter=true&multiline=false&width=860&lines=Ol%C3%A1%2C+sou+Ricardo+Andreotti!;Full+Stack+Developer+%F0%9F%9A%80;IA+%26+Automa%C3%A7%C3%A3o+%F0%9F%A4%96;WebGL+%26+Computa%C3%A7%C3%A3o+Gr%C3%A1fica+%F0%9F%8E%A8;Rust+%26+Sistemas+%E2%9A%99%EF%B8%8F;Apaixonado+por+Open+Source+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 <img src="./purple.svg" alt="Wave Divider" width="100%" />
 
