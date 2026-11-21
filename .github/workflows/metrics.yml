@@ -19,7 +19,7 @@ jobs:
       contents: write
     steps:
       - name: Isometric Calendar
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           filename: calendar-iso.svg
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -30,7 +30,7 @@ jobs:
           committer_branch: metrics-render
 
       - name: Followup
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           filename: habits.svg
           token: ${{ secrets.GITHUB_TOKEN }}
